@@ -7819,10 +7819,9 @@
         "description": "One of the options selectable for the GPS SBAS system"
     },
     "gpsSbasNone": {
-        "message": "None",
+        "message": "Keine",
         "english": "None",
-        "description": "One of the options selectable for the GPS SBAS system",
-        "status": "New entry. Please translate!"
+        "description": "One of the options selectable for the GPS SBAS system"
     },
     "dialogFileNameTitle": {
         "message": "Dateiname",
@@ -7853,78 +7852,63 @@
         "english": "You must update your device's webview in order to use the configurator."
     },
     "cordovaWebviewTroubleshootingMsg2": {
-        "message": "The tool below is intended to help you to install a new webview or to update an already installed webview.",
-        "english": "The tool below is intended to help you to install a new webview or to update an already installed webview.",
-        "status": "New entry. Please translate!"
+        "message": "Das folgende Tool soll Ihnen helfen, eine neue Webansicht zu installieren oder eine bereits installierte Webansicht zu aktualisieren.",
+        "english": "The tool below is intended to help you to install a new webview or to update an already installed webview."
     },
     "cordovaAvailableWebviews": {
-        "message": "Available webview applications on your device",
-        "english": "Available webview applications on your device",
-        "status": "New entry. Please translate!"
+        "message": "Verfügbare Webansicht-Anwendungen auf Ihrem Gerät",
+        "english": "Available webview applications on your device"
     },
     "cordovaWebviewInstall": {
-        "message": "Installing the <b>{{app}}</b> app can resolve this compatibility issue.",
-        "english": "Installing the <b>{{app}}</b> app can resolve this compatibility issue.",
-        "status": "New entry. Please translate!"
+        "message": "Die Installation der <b>{{app}}</b> App kann dieses Kompatibilitätsproblem beheben.",
+        "english": "Installing the <b>{{app}}</b> app can resolve this compatibility issue."
     },
     "cordovaWebviewInstallBtn": {
-        "message": "Install from the Google Play Store",
-        "english": "Install from the Google Play Store",
-        "status": "New entry. Please translate!"
+        "message": "Über den Google Play Store installieren",
+        "english": "Install from the Google Play Store"
     },
     "cordovaWebviewUninstall": {
-        "message": "Uninstalling the <b>{{app}}</b> app can resolve this compatibility issue. If you are not able to uninstall it, try to disable it from the settings app.",
-        "english": "Uninstalling the <b>{{app}}</b> app can resolve this compatibility issue. If you are not able to uninstall it, try to disable it from the settings app.",
-        "status": "New entry. Please translate!"
+        "message": "Das Deinstallieren der <b>{{app}}</b> App kann dieses Kompatibilitätsproblem beheben. Wenn Sie sie nicht deinstallieren können, versuchen Sie, sie über die Einstellungs-App zu deaktivieren.",
+        "english": "Uninstalling the <b>{{app}}</b> app can resolve this compatibility issue. If you are not able to uninstall it, try to disable it from the settings app."
     },
     "cordovaWebviewUninstallBtn1": {
-        "message": "Uninstall from the Google Play Store",
-        "english": "Uninstall from the Google Play Store",
-        "status": "New entry. Please translate!"
+        "message": "Über den Google Play Store deistallieren",
+        "english": "Uninstall from the Google Play Store"
     },
     "cordovaWebviewUninstallBtn2": {
-        "message": "Uninstall / disable from the settings",
-        "english": "Uninstall / disable from the settings",
-        "status": "New entry. Please translate!"
+        "message": "In den Einstellungen deinstallieren / deaktivieren",
+        "english": "Uninstall / disable from the settings"
     },
     "cordovaWebviewUpdate": {
-        "message": "Updating the <b>{{app}}</b> app can resolve this compatibility issue.",
-        "english": "Updating the <b>{{app}}</b> app can resolve this compatibility issue.",
-        "status": "New entry. Please translate!"
+        "message": "Das Aktualisieren der <b>{{app}}</b> App kann dieses Kompatibilitätsproblem beheben.",
+        "english": "Updating the <b>{{app}}</b> app can resolve this compatibility issue."
     },
     "cordovaWebviewUpdateBtn": {
-        "message": "Update from the Google Play Store",
-        "english": "Update from the Google Play Store",
-        "status": "New entry. Please translate!"
+        "message": "Update aus dem Google Play Store",
+        "english": "Update from the Google Play Store"
     },
     "cordovaWebviewEnable": {
-        "message": "Go into the tab of informations about your device in the settings and tap 10 times on the build version number to enable 'Developper options'. After that, search and go in the developper options and select <b>{{app}}</b> as webview provider.",
-        "english": "Go into the tab of informations about your device in the settings and tap 10 times on the build version number to enable 'Developper options'. After that, search and go in the developper options and select <b>{{app}}</b> as webview provider.",
-        "status": "New entry. Please translate!"
+        "message": "Gehen Sie in den Einstellungen auf die Registerkarte "Informationen über Ihr Gerät" und tippen Sie 10 Mal auf die Build-Versionsnummer, um "Entwickleroptionen" zu aktivieren. Danach gehen Sie in die Entwickleroptionen und wählen Sie <b>{{app}}</b> als Webansicht-Anbieter aus.",
+        "english": "Go into the tab of informations about your device in the settings and tap 10 times on the build version number to enable 'Developper options'. After that, search and go in the developper options and select <b>{{app}}</b> as webview provider."
     },
     "cordovaWebviewEnableBtn": {
-        "message": "Open settings",
-        "english": "Open settings",
-        "status": "New entry. Please translate!"
+        "message": "Einstellungen öffnen",
+        "english": "Open settings"
     },
     "cordovaNoWebview": {
-        "message": "No webview application installed / enabled",
-        "english": "No webview application installed / enabled",
-        "status": "New entry. Please translate!"
-    },
+        "message": "Keine Webansicht-Anwendung installiert / aktiviert",
+        "english": "No webview application installed / enabled"
+    },       
     "cordovaWebviewUsed": {
-        "message": "used",
-        "english": "used",
-        "status": "New entry. Please translate!"
+        "message": "verwendet",
+        "english": "used"
     },
     "cordovaExitAppTitle": {
-        "message": "Confirmation",
-        "english": "Confirmation",
-        "status": "New entry. Please translate!"
+        "message": "Bestätigung",
+        "english": "Confirmation"
     },
     "cordovaExitAppMessage": {
-        "message": "Do you really want to close the configurator?",
-        "english": "Do you really want to close the configurator?",
-        "status": "New entry. Please translate!"
+        "message": "Wollen Sie den Konfigurator wirklich schließen?",
+        "english": "Do you really want to close the configurator?"
     }
 }
