@@ -4068,19 +4068,16 @@
         "english": "Loading ..."
     },
     "firmwareFlasherOptionLabelBuildTypeRelease": {
-        "message": "Releases",
-        "english": "Releases",
-        "status": "Modified entry. Please translate!"
+        "message": "Veröffentlichungen",
+        "english": "Releases"
     },
     "firmwareFlasherOptionLabelBuildTypePreRelease": {
-        "message": "Releases and Pre-releases",
-        "english": "Releases and Pre-releases",
-        "status": "New entry. Please translate!"
+        "message": "Veröffentlichungen und Vorabveröffentlichungen",
+        "english": "Releases and Pre-releases"
     },
     "firmwareFlasherOptionLabelBuildTypeDevelopment": {
-        "message": "All Releases and Snapshots",
-        "english": "All Releases and Snapshots",
-        "status": "Modified entry. Please translate!"
+        "message": "Alle Veröffentlichungen und Zwischenstände",
+        "english": "All Releases and Snapshots"
     },
     "firmwareFlasherOptionLabelSelectFirmware": {
         "message": "Wähle eine Firmware / FC",
@@ -5644,9 +5641,8 @@
         "english": "Voltage Meter"
     },
     "powerVoltageWarning": {
-        "message": "<span class=\"message-negative\">Warning:</span> Values limited to 25.5V.",
-        "english": "<span class=\"message-negative\">Warning:</span> Values limited to 25.5V.",
-        "status": "New entry. Please translate!"
+        "message": "<span class=\"message-negative\">Warning:</span> Werte auf 25.5V begrenzt.",
+        "english": "<span class=\"message-negative\">Warning:</span> Values limited to 25.5V."
     },
     "powerVoltageValue": {
         "message": "$1 V",
@@ -5769,9 +5765,8 @@
         "english": "Amperage Meter"
     },
     "powerAmperageWarning": {
-        "message": "<span class=\"message-negative\">Warning:</span> Values limited to 63.5A.",
-        "english": "<span class=\"message-negative\">Warning:</span> Values limited to 63.5A.",
-        "status": "New entry. Please translate!"
+        "message": "<span class=\"message-negative\">Warning:</span> Werte auf 63.5A begrenzt.",
+        "english": "<span class=\"message-negative\">Warning:</span> Values limited to 63.5A."
     },
     "powerAmperageValue": {
         "message": "$1 A",
@@ -7660,14 +7655,12 @@
         "english": "Craft name"
     },
     "blackboxDevice": {
-        "message": "Blackbox logging device",
-        "english": "Blackbox logging device",
-        "status": "New entry. Please translate!"
+        "message": "Blackbox Log-Gerät",
+        "english": "Blackbox logging device"
     },
     "blackboxRateOfLogging": {
-        "message": "Blackbox logging rate",
-        "english": "Blackbox logging rate",
-        "status": "New entry. Please translate!"
+        "message": "Blackbox Log-Geschwindigkeit",
+        "english": "Blackbox logging rate"
     },
     "blackboxDebugMode": {
         "message": "Blackbox debug mode",
