@@ -161,10 +161,10 @@
         "english": "Opt out of the anonymised collection of statistics data"
     },
     "connectionTimeout": {
-        "message": "Set connection timeout to allow longer initialisation on device plugin or reboot",
+        "message": "Verbindungs-Zeitüberschreitung einstellen, um eine längere Initialisierung beim Geräte-Einstecken oder Neustart zu ermöglichen",
         "english": "Set connection timeout to allow longer initialisation on device plugin or reboot",
         "description": "Change timeout on auto-connect and reboot so the bus has more time to initialize after being detected by the system",
-        "status": "New entry. Please translate!"
+        "status": "übersetzt"
     },
     "cordovaForceComputerUI": {
         "message": "Computerschnittstelle anstelle der Telefonschnittstelle verwenden",
@@ -4070,14 +4070,17 @@
     "firmwareFlasherOptionLabelBuildTypeRelease": {
         "message": "Veröffentlichungen",
         "english": "Releases"
+        "status": "übersetzt HM"
     },
     "firmwareFlasherOptionLabelBuildTypePreRelease": {
         "message": "Veröffentlichungen und Vorabveröffentlichungen",
         "english": "Releases and Pre-releases"
+        "status": "übersetzt HM"
     },
     "firmwareFlasherOptionLabelBuildTypeDevelopment": {
         "message": "Alle Veröffentlichungen und Zwischenstände",
         "english": "All Releases and Snapshots"
+        "status": "übersetzt HM"
     },
     "firmwareFlasherOptionLabelSelectFirmware": {
         "message": "Wähle eine Firmware / FC",
@@ -5642,7 +5645,8 @@
     },
     "powerVoltageWarning": {
         "message": "<span class=\"message-negative\">Warning:</span> Werte auf 25.5V begrenzt.",
-        "english": "<span class=\"message-negative\">Warning:</span> Values limited to 25.5V."
+        "english": "<span class=\"message-negative\">Warning:</span> Values limited to 25.5V.",
+        "status": "übersetzt HM"
     },
     "powerVoltageValue": {
         "message": "$1 V",
@@ -5766,7 +5770,8 @@
     },
     "powerAmperageWarning": {
         "message": "<span class=\"message-negative\">Warning:</span> Werte auf 63.5A begrenzt.",
-        "english": "<span class=\"message-negative\">Warning:</span> Values limited to 63.5A."
+        "english": "<span class=\"message-negative\">Warning:</span> Values limited to 63.5A.",
+        "status": "übersetzt HM"
     },
     "powerAmperageValue": {
         "message": "$1 A",
@@ -7656,11 +7661,13 @@
     },
     "blackboxDevice": {
         "message": "Blackbox Log-Gerät",
-        "english": "Blackbox logging device"
+        "english": "Blackbox logging device",
+        "status": "übersetzt HM"
     },
     "blackboxRateOfLogging": {
         "message": "Blackbox Log-Geschwindigkeit",
-        "english": "Blackbox logging rate"
+        "english": "Blackbox logging rate",
+        "status": "übersetzt HM"
     },
     "blackboxDebugMode": {
         "message": "Blackbox debug mode",
@@ -7814,7 +7821,8 @@
     "gpsSbasNone": {
         "message": "Keine",
         "english": "None",
-        "description": "One of the options selectable for the GPS SBAS system"
+        "description": "One of the options selectable for the GPS SBAS system",
+        "status": "übersetzt HM"
     },
     "dialogFileNameTitle": {
         "message": "Dateiname",
@@ -7842,66 +7850,82 @@
     },
     "cordovaWebviewTroubleshootingMsg": {
         "message": "Sie müssen die Webansicht Ihres Geräts aktualisieren, um den Konfigurator verwenden zu können.",
-        "english": "You must update your device's webview in order to use the configurator."
+        "english": "You must update your device's webview in order to use the configurator.",
+        "status": "übersetzt HM"
     },
     "cordovaWebviewTroubleshootingMsg2": {
         "message": "Das folgende Tool soll Ihnen helfen, eine neue Webansicht zu installieren oder eine bereits installierte Webansicht zu aktualisieren.",
-        "english": "The tool below is intended to help you to install a new webview or to update an already installed webview."
+        "english": "The tool below is intended to help you to install a new webview or to update an already installed webview.",
+        "status": "übersetzt HM"
     },
     "cordovaAvailableWebviews": {
         "message": "Verfügbare Webansicht-Anwendungen auf Ihrem Gerät",
-        "english": "Available webview applications on your device"
+        "english": "Available webview applications on your device",
+        "status": "übersetzt HM"
     },
     "cordovaWebviewInstall": {
         "message": "Die Installation der <b>{{app}}</b> App kann dieses Kompatibilitätsproblem beheben.",
-        "english": "Installing the <b>{{app}}</b> app can resolve this compatibility issue."
+        "english": "Installing the <b>{{app}}</b> app can resolve this compatibility issue.",
+        "status": "übersetzt HM"
     },
     "cordovaWebviewInstallBtn": {
         "message": "Über den Google Play Store installieren",
-        "english": "Install from the Google Play Store"
+        "english": "Install from the Google Play Store",
+        "status": "übersetzt HM"
     },
     "cordovaWebviewUninstall": {
         "message": "Das Deinstallieren der <b>{{app}}</b> App kann dieses Kompatibilitätsproblem beheben. Wenn Sie sie nicht deinstallieren können, versuchen Sie, sie über die Einstellungs-App zu deaktivieren.",
-        "english": "Uninstalling the <b>{{app}}</b> app can resolve this compatibility issue. If you are not able to uninstall it, try to disable it from the settings app."
+        "english": "Uninstalling the <b>{{app}}</b> app can resolve this compatibility issue. If you are not able to uninstall it, try to disable it from the settings app.",
+        "status": "übersetzt HM"
     },
     "cordovaWebviewUninstallBtn1": {
         "message": "Über den Google Play Store deistallieren",
-        "english": "Uninstall from the Google Play Store"
+        "english": "Uninstall from the Google Play Store",
+        "status": "übersetzt HM"
     },
     "cordovaWebviewUninstallBtn2": {
         "message": "In den Einstellungen deinstallieren / deaktivieren",
-        "english": "Uninstall / disable from the settings"
+        "english": "Uninstall / disable from the settings",
+        "status": "übersetzt HM"
     },
     "cordovaWebviewUpdate": {
         "message": "Das Aktualisieren der <b>{{app}}</b> App kann dieses Kompatibilitätsproblem beheben.",
-        "english": "Updating the <b>{{app}}</b> app can resolve this compatibility issue."
+        "english": "Updating the <b>{{app}}</b> app can resolve this compatibility issue.",
+        "status": "übersetzt HM"
     },
     "cordovaWebviewUpdateBtn": {
         "message": "Update aus dem Google Play Store",
-        "english": "Update from the Google Play Store"
+        "english": "Update from the Google Play Store",
+        "status": "übersetzt HM"
     },
     "cordovaWebviewEnable": {
         "message": "Gehen Sie in den Einstellungen auf die Registerkarte "Informationen über Ihr Gerät" und tippen Sie 10 Mal auf die Build-Versionsnummer, um "Entwickleroptionen" zu aktivieren. Danach gehen Sie in die Entwickleroptionen und wählen Sie <b>{{app}}</b> als Webansicht-Anbieter aus.",
-        "english": "Go into the tab of informations about your device in the settings and tap 10 times on the build version number to enable 'Developper options'. After that, search and go in the developper options and select <b>{{app}}</b> as webview provider."
+        "english": "Go into the tab of informations about your device in the settings and tap 10 times on the build version number to enable 'Developper options'. After that, search and go in the developper options and select <b>{{app}}</b> as webview provider.",
+        "status": "übersetzt HM"
     },
     "cordovaWebviewEnableBtn": {
         "message": "Einstellungen öffnen",
-        "english": "Open settings"
+        "english": "Open settings",
+        "status": "übersetzt HM"
     },
     "cordovaNoWebview": {
         "message": "Keine Webansicht-Anwendung installiert / aktiviert",
-        "english": "No webview application installed / enabled"
+        "english": "No webview application installed / enabled",
+        "status": "übersetzt HM"
     },       
     "cordovaWebviewUsed": {
         "message": "verwendet",
-        "english": "used"
+        "english": "used",
+        "status": "übersetzt HM"
     },
     "cordovaExitAppTitle": {
         "message": "Bestätigung",
-        "english": "Confirmation"
+        "english": "Confirmation",
+        "status": "übersetzt HM"
     },
     "cordovaExitAppMessage": {
         "message": "Wollen Sie den Konfigurator wirklich schließen?",
-        "english": "Do you really want to close the configurator?"
+        "english": "Do you really want to close the configurator?",
+        "status": "übersetzt HM"
     }
 }
