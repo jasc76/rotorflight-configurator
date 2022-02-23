@@ -7900,7 +7900,7 @@
         "status": "übersetzt HM"
     },
     "cordovaWebviewEnable": {
-        "message": "Gehen Sie in den Einstellungen auf die Registerkarte "Informationen über Ihr Gerät" und tippen Sie 10 Mal auf die Build-Versionsnummer, um "Entwickleroptionen" zu aktivieren. Danach gehen Sie in die Entwickleroptionen und wählen Sie <b>{{app}}</b> als Webansicht-Anbieter aus.",
+        "message": "Gehen Sie in den Einstellungen auf die Registerkarte 'Informationen über Ihr Gerät' und tippen Sie 10 Mal auf die Build-Versionsnummer, um 'Entwickleroptionen' zu aktivieren. Danach gehen Sie in die Entwickleroptionen und wählen Sie <b>{{app}}</b> als Webansicht-Anbieter aus.",
         "english": "Go into the tab of informations about your device in the settings and tap 10 times on the build version number to enable 'Developper options'. After that, search and go in the developper options and select <b>{{app}}</b> as webview provider.",
         "status": "übersetzt HM"
     },
