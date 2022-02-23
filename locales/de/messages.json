@@ -68,12 +68,12 @@
         "message": "Virtual Mode (Experimentell)",
         "english": "Virtual Mode (Experimental)",
         "description": "Configure a Virtual Flight Controller without the need of a physical FC.",
-        "status": "New entry. Please translate!"
+        "status": "New entry.  OK"
     },
     "virtualMSPVersion": {
         "message": "Virtuelle Firmware Version",
         "english": "Virtual Firmware Version",
-        "status": "New entry. Please translate!"
+        "status": "New entry. OK"
     },
     "portOverrideText": {
         "message": "Port:",
@@ -94,47 +94,47 @@
     "buttonSave": {
         "message": "Speichern",
         "english": "Save",
-        "status": "New entry. Please translate!"
+        "status": "New entry. ok"
     },
     "buttonSaveReboot": {
         "message": "Speichern und Neustarten",
         "english": "Save and Reboot",
-        "status": "New entry. Please translate!"
+        "status": "New entry. ok"
     },
     "buttonRevert": {
         "message": "Wiederherstellen",
         "english": "Revert",
-        "status": "New entry. Please translate!"
+        "status": "New entry. ok"
     },
     "eepromSaved": {
         "message": "EEPROM <span class=\"message-positive\">gespeichert</span>",
         "english": "EEPROM <span class=\"message-positive\">saved</span>",
-        "status": "New entry. Please translate!"
+        "status": "New entry. ok"
     },
     "dialogTabExitTitle": {
         "message": "<span class=\"message-negative\">WARNUNG:</span> Unsaved Changes",
         "english": "<span class=\"message-negative\">WARNING:</span> Unsaved Changes",
-        "status": "New entry. Please translate!"
+        "status": "New entry. ok"
     },
     "dialogTabExitNote": {
         "message": "Es gibt <b>ungespeicherte Änderungen</b> im aktuellen Tab.",
         "english": "There are <b>unsaved changes</b> in the current Tab.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. ok"
     },
     "dialogTabExitSave": {
         "message": "Änderungen speichern",
         "english": "Save Changes",
-        "status": "New entry. Please translate!"
+        "status": "New entry. ok"
     },
     "dialogTabExitRevert": {
         "message": "Änderungen ignorieren",
         "english": "Ignore Changes",
-        "status": "New entry. Please translate!"
+        "status": "New entry. ok"
     },
     "dialogTabExitCancel": {
         "message": "Zurück",
         "english": "Go Back",
-        "status": "New entry. Please translate!"
+        "status": "New entry. ok"
     },
     "autoConnectEnabled": {
         "message": "automatisch Verbinden: aktiv. Der Konfigurator versucht sich wieder zu verbinden, wenn ein neuer Port erkannt wird.",
@@ -241,12 +241,12 @@
     "configuratorUpdateNotice": {
         "message": "Es wird eine veraltete Version des <b>Rotorflight Configurator</b> verwendet.<br>$t(configuratorUpdateHelp.message)",
         "english": "You are using an outdated version of the <b>Rotorflight Configurator</b>.<br>$t(configuratorUpdateHelp.message)",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. ok"
     },
     "configuratorUpdateHelp": {
         "message": "Es wird eine neuere Rotorflight Version mit einem nicht kompatiblen Configurator verwendet. <strong>Es kann zu Datenverlust und unerwünschten Verhalten kommen</strong>. Weiterhin können einige Funktionen nur per CLI geändert werden.<br><strong>Rotorflight Configurator version <b>$1</b> kann aus GitHub heruntergeladen werden</strong>, siehe <a href=\"$2\" target=\"_blank\" rel=\"noopener noreferrer\">this page</a> um die neueste Version herunterzuladen.<br> Bitte Configurator-Fenster vor dem Update schließen.",
         "english": "Using a newer version of the firmware with an outdated version of Configurator means that changing some settings will result in a <strong>corrupted firmware configuration and a non-working craft</strong>. Furthermore, some features of the firmware will only be configurable in CLI.<br><strong>Rotorflight Configurator version <b>$1</b> is available for download online</strong>, please visit <a href=\"$2\" target=\"_blank\" rel=\"noopener noreferrer\">this page</a> to download and install the latest version with fixes and improvements.<br>Please close the configurator window before updating.",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. ok!"
     },
     "configuratorUpdateWebsite": {
         "message": "Webseite mit Downloadversionen aufrufen",
@@ -311,12 +311,12 @@
     "tabStatus": {
         "message": "Status",
         "english": "Status",
-        "status": "New entry. Please translate!"
+        "status": "New entry. ok"
     },
     "tabSetup": {
         "message": "System",
         "english": "System",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. ok"
     },
     "tabSetupOSD": {
         "message": "OSD Einstellungen",
@@ -329,27 +329,27 @@
     "tabPorts": {
         "message": "Serial Ports",
         "english": "Serial Ports",
-        "status": "Modified entry. Please translate! Its fine for German"
+        "status": "Modified entry. Its fine for German"
     },
     "tabBeepers": {
         "message": "Beepers",
         "english": "Beepers",
-        "status": "New entry. Please translate! Its fine for German"
+        "status": "New entry.  Its fine for German"
     },
     "tabProfiles": {
         "message": "Profile",
         "english": "Profiles",
-        "status": "New entry. Please translate! "
+        "status": "New entry.  "
     },
     "tabRates": {
         "message": "Rates",
         "english": "Rates",
-        "status": "New entry. Please translate! Its fine for German"
+        "status": "New entry.  Its fine for German"
     },
     "tabGyro": {
         "message": "Gyro",
         "english": "Gyro",
-        "status": "New entry. Please translate! Its fine for German"
+        "status": "New entry.  Its fine for German"
     },
     "tabReceiver": {
         "message": "Empfänger",
@@ -370,12 +370,12 @@
     "tabVtx": {
         "message": "Video Tx",
         "english": "Video Tx",
-        "status": "Modified entry. Please translate! Its fine for German" 
+        "status": "Modified entry.  Its fine for German" 
     },
     "tabPower": {
         "message": "Leistung",
         "english": "Power",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "tabGPS": {
         "message": "GPS",
@@ -384,12 +384,12 @@
     "tabMotors": {
         "message": "Motoren",
         "english": "Motors",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "tabMixer": {
         "message": "Mixer",
         "english": "Mixer",
-        "status": "New entry. Please translate! Its fine for German"
+        "status": "New entry.  Its fine for German"
     },
     "tabLedStrip": {
         "message": "LED Leiste",
@@ -406,12 +406,12 @@
     "tabLogging": {
         "message": "Logging",
         "english": "Logging",
-        "status": "Modified entry. Please translate! Its fine for German"
+        "status": "Modified entry.  Its fine for German"
     },
     "tabBlackbox": {
         "message": "Blackbox",
         "english": "Blackbox",
-        "status": "New entry. Please translate! Its fine for German"
+        "status": "New entry.  Its fine for German"
     },
     "tabAdjustments": {
         "message": "Anpassungen",
@@ -460,7 +460,7 @@
     "serialPortLoading": {
         "message": "Wird geladen ...",
         "english": "Loading ...",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "usbDeviceOpened": {
         "message": "USB Gerät <span class=\"message-positive\">erfolgreich</span> geöffnet mit ID: $1",
@@ -598,7 +598,7 @@
     "firmwareTypeNotSupported": {
         "message": "Es handelt sich nicht um eine Rotorflight Firmware <span class=\"message-negative\">Nur CLI Modus wird unterstützt</span>",
         "english": "Non - Rotorflight firmware is <span class=\"message-negative\">not supported</span>, except for CLI mode.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "resetToCustomDefaultsDialog": {
         "message": "Es sind benutzerdefinierte Standards für diesen Flightcontroller verfügbar. Normalerweise funktioniert ein Flightcontroller nicht ordnungsgemäß, wenn keine benutzerdefinierten Standardeinstellungen angewendet werden. <br /> Möchten sie die benutzerdefinierten Standardeinstellungen anwenden?",
@@ -623,7 +623,7 @@
     "reportProblemsDialogMOTOR_PROTOCOL_DISABLED": {
         "message": "<strong>Es wurde kein Motorenprotokoll ausgewählt</strong>.<br>Bitte ein geeignetes Protokoll'$t(configurationEscFeatures.message)' in '$t(tabMotors.message)' tab.<br>$t(escProtocolDisabledMessage.message) auswählen",
         "english": "<strong>there is no motor output protocol selected</strong>.<br>Please select a motor output protocol appropriate for your ESCs in '$t(configurationEscFeatures.message)' on the '$t(tabMotors.message)' tab.<br>$t(escProtocolDisabledMessage.message)",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "reportProblemsDialogACC_NEEDS_CALIBRATION": {
         "message": "<strong>Der Beschleunigungsmesser ist aktiviert, aber nicht kalibriert</strong>.<br>Wenn Sie den Beschleunigungsmesser verwenden wollen, folgen Sie bitte den Anweisungen für '$t(initialSetupButtonCalibrateAccel.message)' auf der Registerkarte '$t(tabSetup.message)' Wenn eine Funktion, die den Beschleunigungsmesser benötigt (Auto-Level-Modi, GPS-Rettung, u. ä.) aktiviert ist, wird das Scharfstellen des Kopters deaktiviert. Solange, bis der Beschleunigungsmesser kalibriert ist.<br>Wenn Sie nicht planen, den Beschleunigungsmesser zu verwenden, wird empfohlen, dass Sie ihn in '$t(configurationSystem.message)' auf der Registerkarte '$t(tabConfiguration.message)' deaktivieren.",
@@ -632,7 +632,7 @@
     "infoVersions": {
         "message": "Betriebssystem: <strong>{{operatingSystem}}</strong>, Configurator: <strong>{{configuratorVersion}}</strong>",
         "english": "Running - OS: <strong>{{operatingSystem}}</strong>, Configurator: <strong>{{configuratorVersion}}</strong>",
-        "status": "Modified entry. Please translate!",
+        "status": "Modified entry. ",
         "description": "Message that appears in the GUI log panel indicating operating system, Chrome version and Configurator version"
     },
     "releaseCheckLoaded": {
@@ -666,7 +666,7 @@
     "apiVersionReceived": {
         "message": "MSP API version: <strong>$1</strong>",
         "english": "MSP API version: <strong>$1</strong>",
-        "status": "Modified entry. Please translate! Its fine for German"
+        "status": "Modified entry.  Its fine for German"
     },
     "uniqueDeviceIdReceived": {
         "message": "Eindeutige Geräte ID: <strong>0x$1</strong>",
@@ -691,12 +691,12 @@
     "buildInfoReceived": {
         "message": "Revision: <strong>$1</strong> Veröffentlicht: <strong>$2</strong>",
         "english": "Revision: <strong>$1</strong> released on: <strong>$2</strong>",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "firmwareInfoReceived": {
         "message": "Firmware: <strong>$1</strong> Version: <strong>$2</strong>",
         "english": "Firmware: <strong>$1</strong> version: <strong>$2</strong>",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "versionLabelTarget": {
         "message": "Ziel",
@@ -719,13 +719,13 @@
         "message": "D:",
         "english": "D:",
         "description": "References 'Download' in the status bar, port utilization. Keep one character long if possible",
-        "status": "New entry. Please translate! Its fine for German"
+        "status": "New entry.  Its fine for German"
     },
     "statusbar_usage_upload": {
         "message": "U:",
         "english": "U:",
         "description": "References 'Upload' in the status bar, port utilization. Keep one character long if possible",
-        "status": "New entry. Please translate! Its fine for German"
+        "status": "New entry.  Its fine for German"
     },
     "statusbar_packet_error": {
         "message": "Paket Fehler:",
@@ -736,25 +736,25 @@
         "message": "PID Zyklus Zeit:",
         "english": "PID Cycle Time:",
         "description": "PID cycle time text shown in the status bar",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "statusbar_gyro_cycle_time": {
         "message": "Gyro Zyklus Zeit:",
         "english": "Gyro Cycle Time:",
         "description": "Gyro cycle time text shown in the status bar",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "statusbar_sys_load": {
         "message": "System wird geladen:",
         "english": "System Load:",
         "description": "System load text shown in the status bar",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "statusbar_cpu_load": {
         "message": "CPU Auslastung:",
         "english": "CPU Load:",
         "description": "CPU load text shown in the status bar",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "dfu_erased_kilobytes": {
         "message": "<span class=\"message-positive\">Erfolgreich </span> $1 kB Speicher gelöscht",
@@ -784,7 +784,7 @@
     "defaultWelcomeText": {
         "message": "Die Anwendung unterstützt jegliche Rotorflight kompatible Hardware. Bitte Firmware Tab für eine komplette Liste beachten.<br /><br /> <a href=\"https://github.com/rotorflight/rotorflight-blackbox/releases\" target=\"_blank\" rel=\"noopener noreferrer\">Download Rotorflight Blackbox Log Viewer</a><br /><br /> <a href=\"https://github.com/rotorflight/rotorflight-lua-scripts/releases\" target=\"_blank\" rel=\"noopener noreferrer\">Download Rotorflight TX LUA Scripts</a><br /><br />The source code can be downloaded from <a href=\"https://github.com/rotorflight?tab=repositories\" target=\"_blank\" rel=\"noopener noreferrer\">here</a><br /><br />The latest <b>STM USB VCP Drivers</b> can be downloaded from <a href=\"http://www.st.com/web/en/catalog/tools/PF257938\" target=\"_blank\" rel=\"noopener noreferrer\">here</a><br />The latest <b>Zadig</b> for Windows USB driver installer can be downloaded from <a href=\"http://zadig.akeo.ie/\" target=\"_blank\" rel=\"noopener noreferrer\">here</a><br />",
         "english": "The application supports all hardware that can run Rotorflight. Check flash tab for full list of hardware.<br /><br /> <a href=\"https://github.com/rotorflight/rotorflight-blackbox/releases\" target=\"_blank\" rel=\"noopener noreferrer\">Download Rotorflight Blackbox Log Viewer</a><br /><br /> <a href=\"https://github.com/rotorflight/rotorflight-lua-scripts/releases\" target=\"_blank\" rel=\"noopener noreferrer\">Download Rotorflight TX LUA Scripts</a><br /><br />The source code can be downloaded from <a href=\"https://github.com/rotorflight?tab=repositories\" target=\"_blank\" rel=\"noopener noreferrer\">here</a><br /><br />The latest <b>STM USB VCP Drivers</b> can be downloaded from <a href=\"http://www.st.com/web/en/catalog/tools/PF257938\" target=\"_blank\" rel=\"noopener noreferrer\">here</a><br />The latest <b>Zadig</b> for Windows USB driver installer can be downloaded from <a href=\"http://zadig.akeo.ie/\" target=\"_blank\" rel=\"noopener noreferrer\">here</a><br />",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry."
     },
     "defaultContributingHead": {
         "message": "Mitmachen",
@@ -793,7 +793,7 @@
     "defaultContributingText": {
         "message": "Wenn Du mithelfen möchtest Rotorflight besser zu machen <br /><ul><li> Mach mit! : <a href=\"https://github.com/rotorflight/rotorflight/wiki\" target=\"_blank\" rel=\"noopener noreferrer\">our Wiki</a>, or answering other users' questions in online forums;</li><li><a href=\"https://github.com/rotorflight/rotorflight/wiki/Contributing\" target=\"_blank\" rel=\"noopener noreferrer\">contributing</a> to the firmware and the configurator - new features, fixes, improvements;</li><li>testing <a href=\"https://github.com/rotorflight/rotorflight/wiki/News\" target=\"_blank\" rel=\"noopener noreferrer\">new features and fixes</a> and providing feedback;</li><li>helping other users solve the problems they report in <a href=\"https://github.com/rotorflight/rotorflight/issues\" target=\"_blank\" rel=\"noopener noreferrer\">our issue tracker</a>, and participating in discussions on feature requests;</li><li><a href=\"https://github.com/rotorflight/rotorflight/wiki/Contributing\" target=\"_blank\" rel=\"noopener noreferrer\">translating</a> Rotorflight Configurator into a new language, or helping to maintain the existing translations.</li></ul>",
         "english": "If you would like to help make Rotorflight even better you can help in many ways, including:<br /><ul><li>using your knowledge of Rotorflight to create or update content on <a href=\"https://github.com/rotorflight/rotorflight/wiki\" target=\"_blank\" rel=\"noopener noreferrer\">our Wiki</a>, or answering other users' questions in online forums;</li><li><a href=\"https://github.com/rotorflight/rotorflight/wiki/Contributing\" target=\"_blank\" rel=\"noopener noreferrer\">contributing</a> to the firmware and the configurator - new features, fixes, improvements;</li><li>testing <a href=\"https://github.com/rotorflight/rotorflight/wiki/News\" target=\"_blank\" rel=\"noopener noreferrer\">new features and fixes</a> and providing feedback;</li><li>helping other users solve the problems they report in <a href=\"https://github.com/rotorflight/rotorflight/issues\" target=\"_blank\" rel=\"noopener noreferrer\">our issue tracker</a>, and participating in discussions on feature requests;</li><li><a href=\"https://github.com/rotorflight/rotorflight/wiki/Contributing\" target=\"_blank\" rel=\"noopener noreferrer\">translating</a> Rotorflight Configurator into a new language, or helping to maintain the existing translations.</li></ul>",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "patreonLink": {
         "message": "<a href=\"https://www.patreon.com/betaflight\" target=\"_blank\" rel=\"noopener noreferrer\">Patreon</a>",
@@ -807,22 +807,22 @@
     "defaultDocumentation": {
         "message": "Die Rotorflight Dokumentation findet sich in den Release Notes und im Wiki.<br /><br />",
         "english": "Rotorflight documentation is available in release notes and wiki.<br /><br />",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "defaultDocumentation1": {
         "message": "Das Rotorflight Wiki enthält viele nützliche Informationen <a href=\"https://github.com/rotorflight/rotorflight/wiki\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
         "english": "The Rotorflight wiki is a great resource for information, it can be found <a href=\"https://github.com/rotorflight/rotorflight/wiki\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "defaultDocumentation2": {
         "message": "Die aktuellsten Nachrichten zu Rotorflight gibt es im Wiki <a href=\"https://github.com/rotorflight/rotorflight/wiki/News\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
         "english": "The latest news can be read at the Wiki News page, <a href=\"https://github.com/rotorflight/rotorflight/wiki/News\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "defaultDocumentation3": {
         "message": "Die Release Notes können auf der GitHub Release Seite eingesehen werden <a href=\"https://github.com/rotorflight/rotorflight-firmware/releases\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
         "english": "The release notes for the firmware can be read at GitHub releases page, <a href=\"https://github.com/rotorflight/rotorflight-firmware/releases\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "defaultSupportHead": {
         "message": "Hilfe",
@@ -835,7 +835,7 @@
     "defaultSupportSubline2": {
         "message": "Rotorflight Information",
         "english": "Betaflight Information",
-        "status": "Modified entry. Please translate! Whaaaat Betaflight ;-) "
+        "status": "Modified entry.  Whaaaat Betaflight ;-) "
     },
     "defaultSupport": {
         "message": "Für Hilfe durchsuche bitte die Foren und das Wiki zuerst oder wende dich an deinen Händler.<br /><br /> ",
@@ -844,27 +844,27 @@
     "defaultSupport1": {
         "message": "<a href=\"https://github.com/rotorflight/rotorflight/wiki\" target=\"_blank\" rel=\"noopener noreferrer\">Rotorflight Wiki</a>",
         "english": "<a href=\"https://github.com/rotorflight/rotorflight/wiki\" target=\"_blank\" rel=\"noopener noreferrer\">Rotorflight Wiki</a>",
-        "status": "Modified entry. Please translate! Its ok for German"
+        "status": "Modified entry. Its ok for German"
     },
     "defaultSupport2": {
         "message": "<a href=\"http://www.rcgroups.com/forums/showthread.php?t=4000345\" target=\"_blank\" rel=\"noopener noreferrer\">RC Groups Rotorflight thread</a>",
         "english": "<a href=\"http://www.rcgroups.com/forums/showthread.php?t=4000345\" target=\"_blank\" rel=\"noopener noreferrer\">RC Groups Rotorflight thread</a>",
-        "status": "Modified entry. Please translate! Its ok for German"
+        "status": "Modified entry. Its ok for German"
     },
     "defaultSupport3": {
         "message": "<a href=\"https://discord.com/invite/FyfMF4RwSA\" target=\"_blank\" rel=\"noopener noreferrer\">Rotorflight Discord Kanal</a>",
         "english": "<a href=\"https://discord.com/invite/FyfMF4RwSA\" target=\"_blank\" rel=\"noopener noreferrer\">Rotorflight discussion on Discord</a>",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "defaultSupport4": {
         "message": "<a href=\"https://github.com/rotorflight/rotorflight/wiki\" target=\"_blank\" rel=\"noopener noreferrer\">Rotorflight Wiki</a>",
         "english": "<a href=\"https://betaflight.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Betaflight Website</a>",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "defaultSupport5": {
         "message": "<a href=\"https://github.com/rotorflight/rotorflight/wiki\" target=\"_blank\" rel=\"noopener noreferrer\">Rotorflight Wiki</a>",
         "english": "<a href=\"https://github.com/betaflight/betaflight/wiki\" target=\"_blank\" rel=\"noopener noreferrer\">Betaflight Wiki</a>",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "statusButtonResetZaxis": {
         "message": "Z Achse zurücksetzen, Abweichung: 0 Grad",
@@ -885,12 +885,12 @@
     "statusReceiverHead": {
         "message": "Empfänger",
         "english": "Receiver",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "statusBattery": {
         "message": "Spannung:",
         "english": "Voltage:",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "statusBatteryValue": {
         "message": "$1 V",
@@ -899,12 +899,12 @@
     "statusDrawn": {
         "message": "Kapazität:",
         "english": "Capacity:",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "statusDrawing": {
         "message": "Strom:",
         "english": "Current:",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "statusBatteryMahValue": {
         "message": "$1 mAh",
@@ -917,17 +917,17 @@
     "statusCraftName": {
         "message": "Modellname:",
         "english": "Craft Name:",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "statusBoardName": {
         "message": "Board:",
         "english": "Board:",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry.  Its ok for German"
     },
     "statusTargetName": {
         "message": "Firmware:",
         "english": "Firmware:",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry.  Its ok for German"
     },
     "statusArmingDisableFlags": {
         "message": "Arming deaktiviert aufgrund:",
@@ -1056,19 +1056,19 @@
         "message": "Ein Reboot des Flight Controllers ist erforderlich",
         "english": "A configuration change requires a reboot",
         "description": "Message that pops up to describe the REBOOT_REQ arming disable flag",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "statusArmingDisableFlagsTooltipDSHOT_BITBANG": {
         "message": "'Bitbanged DSHOT' funktioniert nicht richtig. Bitte die Konfiguration auf Timerkonflikte prüfen. Siehe Timer Excel Sheet <a href=\"https://github.com/rotorflight/rotorflight/wiki/Custom-defaults-remapping-spreadsheet\"",
         "english": "Bitbanged DSHOT is not working properly and the motors can't be controlled. Likely caused by a timer conflict with other features enabled on the flight controller.",
         "description": "Message that pops up to describe the DSHOT_BITBANG arming disable flag",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "statusArmingDisableFlagsTooltipACC_CALIB": {
         "message": "Das Accelerometer wurde nicht kalibriert und es wurden Funktionen aktiviert die ohne eine Kalibrierung nicht richtig funktionieren. Bitte Kalibrierung durchführen.",
         "english": "The accelerometer has not been calibrated and features are enabled that rely on it. Calibrate the accelerometer.",
         "description": "Message that pops up to describe the ACC_CALIB arming disable flag",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "statusArmingDisableFlagsTooltipMOTOR_PROTO": {
         "message": "Es ist kein Motorausgabeprotokoll ausgewählt",
@@ -1095,17 +1095,17 @@
     "statusConfigBare": {
         "message": "<span class=\"configBare\">Leer</span>",
         "english": "<span class=\"configBare\">BARE</span>",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "statusConfigDefaults": {
         "message": "<span class=\"configDefaults\">DEFAULTS</span>",
         "english": "<span class=\"configDefaults\">DEFAULTS</span>",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry.  Its ok for German"
     },
     "statusConfigConfigured": {
         "message": "<span class=\"configConfigured\">KONFIGURIERT</span>",
         "english": "<span class=\"configConfigured\">CONFIGURED</span>",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "initialSetupButtonCalibrateAccel": {
         "message": "Beschleunigungssensor kalibieren",
@@ -1146,7 +1146,7 @@
     "initialSetupButtonRebootBootloader": {
         "message": "Boot Loader / DFÜ",
         "english": "Boot Loader / DFU",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "initialSetupBackupRestoreText": {
         "message": "<strong>Sichere</strong> deine Einstellungen für den Fall der Fälle. <strong>Kommandozeilen-Einstellungen</strong> sind <span class=\"message-negative\">nicht</span> enthalten. Siehe den \"diff\" Kommandozeilenbefehl.",
@@ -1159,22 +1159,22 @@
     "initialSetupButtonMassStorage": {
         "message": "Massenspeicher-Modus",
         "english": "Mass Storage Mode",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "initialSetupButtonMassStorageText": {
         "message": "Neustart zum <strong>Massenspeicher-Modus</strong> (MSC).",
         "english": "Reboot into <strong>Mass Storage</strong> mode (MSC).",
-        "status": "New entry. Please translate!"
+        "status": "New entry. !"
     },
     "initialSetupButtonReboot": {
         "message": "Neustart",
         "english": "System Reboot",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "initialSetupButtonRebootText": {
         "message": "Neustarten und System initialisieren.",
         "english": "Reboot and reinitialize the system.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "initialSetupBackupSuccess": {
         "message": "Backup <span class=\"message-positive\">erfolgreich</span> gespeichert",
@@ -1211,52 +1211,52 @@
     "initialSetupDangerText": {
         "message": "<strong>Achtung:</strong> Um Verletzungen zu vermeiden <strong>alle Rotor- und bei Motorheck auch Heckrotorblätter entfernen</strong> bevor Arming durchgeführt wird.<strong class=\"message-negative\"><strong class=\"message-negative\"><br/>NIEMALS MIT ANGESCHLOSSENEM CONFIGURATOR FLIEGEN!</strong>",
         "english": "<strong>Note:</strong> In order to prevent injury <strong>remove ALL rotor blades</strong> before enabling any arming features.<strong class=\"message-negative\"><strong class=\"message-negative\"><br/>NEVER FLY YOUR CRAFT WITH THE CONFIGURATOR CONNECTED!</strong>",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "initialSetupDangerTitle": {
         "message": "Arming und Überschreiben",
         "english": "Arming and Override",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "initialSetupEnableArming": {
         "message": "<strong>Arming erlauben</strong>",
         "english": "<strong>Enable Arming</strong>",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "initialSetupEnableArmingText": {
         "message": "Arming des Helikopters trotz angeschlossenem Configurator erlauben. Arming erlaubt das Anlaufen der Motoren.",
         "english": "Enable arming the craft with the transmitter while the Configurator is connected. Arming your craft will allow the motors to spool up.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "initialSetupEnableMotorOverride": {
         "message": "<strong>Motorsteuerung überschreiben</strong>",
         "english": "<strong>Enable Motor Override</strong>",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "initialSetupEnableMotorOverrideText": {
         "message": "Aktiviere die Motorsteuerung im Motor Tab. Dies kann zum Anlaufen der Motoren führen.",
         "english": "Enable the motor override feature in the Motors tab. Setting motor override WILL make the motors to spool up.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "initialSetupEnableServoOverride": {
         "message": "<strong>Servoausgabe überschreiben</strong>",
         "english": "<strong>Enable Servo Override</strong>",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "initialSetupEnableServoOverrideText": {
         "message": "Aktiviere die Servoausgabe im Servo Tab. Wenn die Servos aktiviert werden, können sich diese ggf. in eine willkürliche Stellung bewegen.",
         "english": "Enable the servo override feature in the Servos tab. Setting servo override WILL move the servos to arbitrary positions.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "initialSetupEnableMixerOverride": {
         "message": "<strong>Mixer-Steuerung umgehen</strong>",
         "english": "<strong>Enable Mixer Override</strong>",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "initialSetupEnableMixerOverrideText": {
         "message": "Aktiviere die Umgehung der Mixer-Steuerung im Mixer Tab. Die Aktivierung wird UNWEIGERLICH zu willkürlichen Servobewegungen führen.",
         "english": "Enable the mixer input override feature in the Mixers tab. Setting mixer override WILL force the flight controls to arbitrary positions.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "featureNone": {
         "message": "Bitte einen Empfänger wählen",
@@ -1277,7 +1277,7 @@
     "featureRX_SERIAL": {
         "message": "SERIAL RX Protokoll (SBUS, CRSF, F.Port)",
         "english": "SERIAL RX input (SBUS, CRSF, F.Port)",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "featureMOTOR_STOP": {
         "message": "Motoren laufen beim Arming nicht an",
@@ -1358,17 +1358,17 @@
     "featureGOVERNOR": {
         "message": "Helikopter Governor",
         "english": "Helicopter headspeed governor",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "featureESC_SENSOR": {
         "message": "KISS ESC Telemetrie verwenden",
         "english": "Use KISS ESC telemetry",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "featureFREQ_SENSOR": {
         "message": "RPM Sensor als Eingang verwenden</b>",
         "english": "Use frequency input for RPM detection</b>",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "featureCHANNEL_FORWARDING": {
         "message": "AUX Kanäle als Servo Ausgang weiterleiten",
@@ -1405,12 +1405,12 @@
     "featureANTI_GRAVITY": {
         "message": "'Anti Gravity' ständig aktivieren",
         "english": "Permanently enable Anti Gravity",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "featureANTI_GRAVITYTip": {
         "message": "Wenn deaktiviert, kann 'Anti Gravity' im Modes Tab per Kanal aktiviert werden.",
         "english": "If this is disabled, the 'ANTI GRAVITY' mode can be used to enable Anti Gravity with a switch.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "featureDYNAMIC_FILTER": {
         "message": "Dynamischer Gyro Notch Filter",
@@ -1419,7 +1419,7 @@
     "featureRPM_FILTER": {
         "message": "Motor RPM kontollierter Notch-Filter",
         "english": "Motor RPM controlled notch filtering",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "featureFAILSAFE": {
         "message": "Failsafe Stufe 2 aktivieren",
@@ -1444,7 +1444,7 @@
     "configurationFeatures": {
         "message": "Funktionen",
         "english": "Features",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "configurationReceiver": {
         "message": "Empfänger",
@@ -1561,12 +1561,12 @@
     "configurationDshotBeeper": {
         "message": "ESC Beacon Einstellung",
         "english": "ESC Beacon Configuration",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "configurationDshotBeaconTone": {
         "message": "Dshot Beacon Töne",
         "english": "Dshot Beacon Tone",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "configurationDshotBeaconHelp": {
         "message": "Dshot Beacons sind Töne die mittels ESC und Motor erzeugt werden. Das bedeutet, dass dies nicht genutzt werden kann, während die Motoren drehen. In Betaflight 3.4 und neuer wird deshalb 2 Sekunden nach dem letzen Ton gewartet, bevor tatsächlich gearmt wird, wenn das Arming-Kommando gegeben wurde. Dies verhindert eine Beeinflussung andere Dshot-Kommandos beim Arming durch die Tonerzeugung. <br/><strong>Warning:</strong> Da die Dshot-Kommandos Strom durch die Motoren schicken, kann das zu erheblicher Wärmeentwicklung führen, welche die Motoren und ESC's beschädigen kann, wenn die Beacon Lautstärke zu hoch eingestellt ist. Benutze den BLHeli Konfigurator oder die BLHeli Suite um die Lautstärke einzustellen und zu testen.",
@@ -1575,7 +1575,7 @@
     "configurationBeeper": {
         "message": "Buzzer Konfiguration",
         "english": "Buzzer Configuration",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "beeperGYRO_CALIBRATED": {
         "message": "Piept, wenn Gyro kalibriert wurde",
@@ -1700,7 +1700,7 @@
     "configurationGPS": {
         "message": "Einstellungen",
         "english": "Settings",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "configurationGPSProtocol": {
         "message": "Protokoll",
@@ -1745,17 +1745,17 @@
     "configurationSerialRX": {
         "message": "Serielles Empfänger Protokoll",
         "english": "Serial Receiver Protocol",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "configurationSerialRXInverted": {
         "message": "Verbindung invertieren",
         "english": "Inverted Serial Line",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "configurationSerialRXHalfDuplex": {
         "message": "Half-Duplex Protokoll",
         "english": "Half-Duplex Communication",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "configurationSpiRX": {
         "message": "SPI-Bus Empfänger",
@@ -1768,17 +1768,17 @@
     "dialogDynFiltersChangeTitle": {
         "message": "Dynamic Notch ändern",
         "english": "Dynamic Notch values change",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "dialogDynFiltersChangeNote": {
         "message": "<span class=\"message-negative\"><b>WARUNG: Einige Werte des Dynamic Notch wurden auf die Standardwerte zurückgesetzt</b></span> da die RPM Filterung verändert wurde.<br> Bitte prüfen.",
         "english": "<span class=\"message-negative\"><b>WARNING: Some dynamic notch values have been changed to default values</b></span> because the RPM filtering has been activated/deactivated.<br> Please, check before flying.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "dialogDynFiltersConfirm": {
         "message": "OK",
         "english": "OK",
-        "status": "New entry. Please translate! OK :-)"
+        "status": "New entry.  OK :-)"
     },
     "portsIdentifier": {
         "message": "Identifier",
@@ -1903,7 +1903,7 @@
     "receiverBars": {
         "message": "Kanäle",
         "english": "Receiver Channels",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "receiverRcSmoothing": {
         "message": "RC Glättung",
@@ -1912,27 +1912,27 @@
     "receiverRcSmoothingRoll": {
         "message": "Roll Glättung",
         "english": "Roll Channel Smoothing",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "receiverRcSmoothingPitch": {
         "message": "Nick Glättung",
         "english": "Pitch Channel Smoothing",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "receiverRcSmoothingYaw": {
         "message": "Heck Glättung",
         "english": "Yaw Channel Smoothing",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "receiverRcSmoothingThrottle": {
         "message": "Gas Glättung",
         "english": "Throttle Channel Smoothing",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "receiverRcSmoothingCollective": {
         "message": "Pitch Glättung",
         "english": "Collective Channel Smoothing",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "receiverRcSmoothingAuto": {
         "message": "Auto",
@@ -2079,37 +2079,37 @@
     "profilesSubTab1": {
         "message": "Profil #1",
         "english": "Profile #1",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "profilesSubTab2": {
         "message": "Profil #2",
         "english": "Profile #2",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "profilesSubTab3": {
         "message": "Profil #3",
         "english": "Profile #3",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "profilesSubTab4": {
         "message": "Profil #4",
         "english": "Profile #4",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "profilesSubTab5": {
         "message": "Profil #5",
         "english": "Profile #5",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "profilesSubTab6": {
         "message": "Profil #6",
         "english": "Profile #6",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "profilesPIDGains": {
         "message": "Achse",
         "english": "Axis",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "profilesProportional": {
         "message": "Proportional",
@@ -2158,7 +2158,7 @@
     "profilesActivateProfile": {
         "message": "Geladenes Profil: <strong class=\"message-positive\">$1</strong>",
         "english": "Loaded Profile: <strong class=\"message-positive\">$1</strong>",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "receiverHelp": {
         "message": "Bitte das Kapitel über Empfänger in der Dokumentation lesen. Seriellen Empfänger (falls nötig) konfigurieren, Protokoll auswählen, Empfänger verbinden und Kanäle zuweisen. Endpunkte so wählen, dass alle Kanäle von ~ 1000 - ~2000 gehen. Mittelwert auf 1500 festelgen. <span class=\"message-negative\">WICHTIG:</span> Ebenso bitte Failsafe konfigurieren, bzw. das Kapital darüber in der Dokumentation lesen.",
@@ -2243,7 +2243,7 @@
     "receiverMspWarningText": {
         "message": "Mit den virtuellen Steuerflächen kann Rotorflight gearmed und gesteuert werden. <strong>Vor Verwendung Rotorblätter abnehmen</strong><br /><br /><strong>NUR FÜR TESTZWECKE OHNE ROTORBLÄTTER!!!!! NICHT ZUM FLIEGEN GEEIGNET!!!!!</strong>",
         "english": "These sticks allow Rotorflight to be armed and tested without a transmitter or receiver being present. However, <strong>this feature is not intended for flight and rotor blades must not be attached.</strong><br /><br />This feature does not guarantee reliable control of your craft. <strong>Serious injury is likely to result if rotor blades are left on.</strong>",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "receiverMspEnableButton": {
         "message": "Kontrolle aktivieren",
@@ -2324,7 +2324,7 @@
     "adjustmentsColumnThenApplyFunction": {
         "message": "Wert des Kanals übernehmen zwischen <br>Minimum und Maximum in Schrittweite übernehmen",
         "english": "then apply value from channel,<br>limited between minimum and maximum, with step size",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry. "
     },
     "adjustmentsMin": {
         "message": "Min",
@@ -2337,292 +2337,292 @@
     "adjustmentsFunctionNone": {
         "message": "Keine Veränderung",
         "english": "No changes",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionPitchRate": {
         "message": "Nick Rate",
         "english": "Pitch Rate",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionRollRate": {
         "message": "Roll Rate",
         "english": "Roll Rate",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry.  Its ok for German"
     },
     "adjustmentsFunctionYawRate": {
         "message": "Heck Rate",
         "english": "Yaw Rate",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry.  Its ok for German"
     },
     "adjustmentsFunctionPitchRCRate": {
         "message": "Nick RC Rate",
         "english": "Pitch RC Rate",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionRollRCRate": {
         "message": "Roll RC Rate",
         "english": "Roll RC Rate",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry.  Its ok for German"
     },
     "adjustmentsFunctionYawRCRate": {
         "message": "Heck RC Rate",
         "english": "Yaw RC Rate",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionPitchRCExpo": {
         "message": "Nick RC Expo",
         "english": "Pitch RC Expo",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionRollRCExpo": {
         "message": "Roll RC Expo",
         "english": "Roll RC Expo",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionYawRCExpo": {
         "message": "Heck RC Expo",
         "english": "Yaw RC Expo",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionPitchP": {
         "message": "Nick P-gain",
         "english": "Pitch P-gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionPitchI": {
         "message": "Nick I-gain",
         "english": "Pitch I-gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionPitchD": {
         "message": "Nick D-gain",
         "english": "Pitch D-gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionPitchF": {
         "message": "Nick F-gain",
         "english": "Pitch F-gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionRollP": {
         "message": "Roll P-gain",
         "english": "Roll P-gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionRollI": {
         "message": "Roll I-gain",
         "english": "Roll I-gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionRollD": {
         "message": "Roll D-gain",
         "english": "Roll D-gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionRollF": {
         "message": "Roll F-gain",
         "english": "Roll F-gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionYawP": {
         "message": "Heck P-gain",
         "english": "Yaw P-gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionYawI": {
         "message": "Heck I-gain",
         "english": "Yaw I-gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionYawD": {
         "message": "Heck D-gain",
         "english": "Yaw D-gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionYawF": {
         "message": "Heck F-gain",
         "english": "Yaw F-gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionYawCenter": {
         "message": "Heck Mittelstellung",
         "english": "Yaw Center Offset",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionYawCWStopGain": {
         "message": "Heck Rechts Stop Gain",
         "english": "Yaw CW Stop Gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionYawCCWStopGain": {
         "message": "Heck Links Stop Gain",
         "english": "Yaw CCW Stop Gain",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionYawCyclicFF": {
         "message": "Heck Cyclic Precomp",
         "english": "Yaw Cyclic Precomp",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionYawCollectiveFF": {
         "message": "Heck Collective Precomp",
         "english": "Yaw Collective Precomp",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionYawImpulseFF": {
         "message": "Heck Collective Impulse Precomp",
         "english": "Yaw Collective Impulse Precomp",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionRescueCollective": {
         "message": "Rettung Collective",
         "english": "Rescue Collective",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionRescueCollectiveBoost": {
         "message": "Rettung Collective Boost",
         "english": "Rescue Collective Boost",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionAngleLevelStrength": {
         "message": "Angle mode Stärke",
         "english": "Angle mode leveling strength",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionHorizonLevelStrength": {
         "message": "Horizon mode Stärke",
         "english": "Horizon mode leveling strength",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionAcroTrainerGain": {
         "message": "Acro Trainer Stärke",
         "english": "Acro Trainer leveling strength",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionGovernorGain": {
         "message": "Governor PID-gain",
         "english": "Governor PID-gain",
-        "status": "New entry. Please translate! I would leave it like that"
+        "status": "New entry.  I would leave it like that"
     },
     "adjustmentsFunctionGovernorP": {
         "message": "Governor P-gain",
         "english": "Governor P-gain",
-        "status": "New entry. Please translate! I would leave it like that"
+        "status": "New entry.  I would leave it like that"
     },
     "adjustmentsFunctionGovernorI": {
         "message": "Governor I-gain",
         "english": "Governor I-gain",
-        "status": "New entry. Please translate! I would leave it like that"
+        "status": "New entry.  I would leave it like that"
     },
     "adjustmentsFunctionGovernorD": {
         "message": "Governor D-gain",
         "english": "Governor D-gain",
-        "status": "New entry. Please translate! I would leave it like that"
+        "status": "New entry.  I would leave it like that"
     },
     "adjustmentsFunctionGovernorF": {
         "message": "Governor F-gain",
         "english": "Governor F-gain",
-        "status": "New entry. Please translate! I would leave it like that"
+        "status": "New entry.  I would leave it like that"
     },
     "adjustmentsFunctionGovernorTTA": {
         "message": "Governor TTA-gain",
         "english": "Governor TTA-gain",
-        "status": "New entry. Please translate! I would leave it like that"
+        "status": "New entry.  I would leave it like that"
     },
     "adjustmentsFunctionGovernorCyclicFF": {
         "message": "Governor Pitch Precomp",
         "english": "Governor Cyclic Precomp",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionGovernorCollectiveFF": {
         "message": "Governor Pitch Precomp",
         "english": "Governor Collective Precomp",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionRateProfile": {
         "message": "Rate Profilauswahl",
         "english": "Rate Profile Selection",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionPIDProfile": {
         "message": "Profilauswahl",
         "english": "Profile Selection",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionOSDProfile": {
         "message": "OSD Profilauswahl",
         "english": "OSD Profile Selection",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "adjustmentsFunctionLEDProfile": {
         "message": "LED Profilauswahl",
         "english": "LED Profile Selection",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "servoConfiguration": {
         "message": "Servo Einstellungen",
         "english": "Servo Configuration",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "servoNumber": {
         "message": "Servo",
         "english": "Servo",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry.  Its ok for German"
     },
     "servoMid": {
         "message": "Mitte",
         "english": "Center",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "servoMin": {
         "message": "Min",
         "english": "Min",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry.  Its ok for German"
     },
     "servoMax": {
         "message": "Max",
         "english": "Max",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry.  Its ok for German"
     },
     "servoRate": {
         "message": "Rate",
         "english": "Rate",
-        "status": "New entry. Please translate!  Its ok for German"
+        "status": "New entry.   Its ok for German"
     },
     "servoTrim": {
         "message": "Trimmung",
         "english": "Trim",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "servoSpeed": {
         "message": "Geschwindigkeit [ms]",
         "english": "Speed [ms]",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "servoReverse": {
         "message": "Umkehren",
         "english": "Reverse",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "servoSignal": {
         "message": "PWM Signal",
         "english": "PWM Signal",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry.  Its ok for German"
     },
     "servoOverrideNote": {
         "message": "<strong>Achtung</strong> das überschreiben der Servosteuerung fährt die Servos in eine voreingestellte Position. Die Einstellungen werden nicht gespeichert.",
         "english": "<strong>Note.</strong> Servo Override forces the servos to fixed positions for setup purposes. The override values are not saved, and will be reset in reboot.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "servoOverride": {
         "message": "Servosteuerung Überschreiben",
         "english": "Servo Override",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "servoOverrideEnable": {
         "message": "Aktivieren"
         "english": "Enable",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "servoOverrideAngle": {
         "message": "Winkel",
@@ -2637,47 +2637,47 @@
     "mixerCustomNote": {
         "message": "<span class=\"message-negative\">Warnung:</span> Es wurden <strong>angepasste</strong> Mixer Regeln gefunden. Veränderungen sind nur im CLI mit dem <code>mixer</code> Befehl möglich.",
         "english": "<span class=\"message-negative\">Warning:</span> The Mixer is configured with <strong>custom</strong> rules. Any configuration changes must be done in the CLI, with the <code>mixer</code> command.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "mixerBidirNote": {
         "message": "<span class=\"message-negative\">Warnung:</span> <i>Bidirektionales Motorheck</i> ist experimentell und kann nur im CLI eingestellt werden.",
         "english": "<span class=\"message-negative\">Warning:</span> <i>Bidirectional tail motor</i> is an experimental feature that requires additional settings in the CLI.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "mixerMainRotorSettings": {
         "message": "Einstellungen Hauptrotor",
         "english": "Main Rotor Settings",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "mixerMainRotorDirection": {
         "message": "Drehrichtung Hauptrotor",
         "english": "Main rotor direction",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "mixerMainRotorDirectionHelp": {
         "message": "Welche Drehrichtung, von oben gesehen, wird verwendet? Diese ist üblicherweise rechts",
         "english": "Looking from the top of the helicopter, what direction is the main rotor turning? For the majority of helicopters this is clockwise",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "mixerClockwise": {
         "message": "Im Uhrzeigersinn",
         "english": "Clockwise",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "mixerCounterClockwise": {
         "message": "Gegen den Uhrzeigersinn",
         "english": "Counter-Clockwise",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "mixerSwashType": {
         "message": "Taumelscheibentyp",
         "english": "Swashplate type",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "mixerSwashTypeHelp": {
         "message": "Bitte den richtigen Taumelscheibentyp auswählen.<br><strong>Winkel:</strong> Dies ist der Winkel zwischen den Nick und Rollservos. Die möglichen Werte sind 120deg, 135deg und 140deg abhängig vom verwendeten Modell.<br><strong>Nick:</strong> Einige Modelle verwenden ein vorne angeordnetes Nick Servo. Bitte korrekte Anordnung auswählen <br><strong>Individuelle Mixereinstellungen:</strong> Nur im CLI möglich. ",
         "english": "Select the swashplate type for your helicopter.<br><strong>Angle:</strong> This is the angle between the elevator and each of the aileron servos. The options are 120&deg, 135&deg and 140&deg. This is dependant on the helicopters design.<br><strong>Elevator:</strong> Some helicopters the elevator servo (inline with tail and nose) is at the front of the heli, while others are at the rear. Choose the one applicable to your helicopter <br><strong>Custom mixing:</strong> This option can only be configured through the CLI. ",
-        "status": "New entry. Please translate! 22.02.2022 jasc"
+        "status": "New entry. 22.02.2022 jasc"
     },
     "mixerSwashType0": {
         "message": "Custom Mixing",
