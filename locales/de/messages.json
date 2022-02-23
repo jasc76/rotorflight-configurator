@@ -5010,16 +5010,17 @@
     "rateSetupMaxVel": {
         "message": "Max. Beschleunigung [Grad/s]",
         "english": "Max Vel [deg/s]"
+        "status": "Shouldn't that be called rotation rate? Müsste das nicht Drehrate heißen?
     },
     "rateSetupRatesCurve": {
-        "message": "Rates Curves",
+        "message": "Ratenvorschau Steuerkurve",
         "english": "Rates Curves",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry."
     },
     "rateSetupRatesCurveTip": {
-        "message": "Play with the rates and see how those affect the stick curve",
+        "message": "Verändere die Raten und schau, wie sie sich auf die Steuerkurve auswirken",
         "english": "Play with the rates and see how those affect the stick curve",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "rateSetupRatesPreview": {
         "message": "Vorschau",
@@ -7602,10 +7603,10 @@
         "description": "Saved action button in the VTX tab"
     },
     "vtxSmartAudioUnlocked": {
-        "message": "{{version}} unlocked",
+        "message": "{{version}} entsperrt",
         "english": "{{version}} unlocked",
         "description": "Indicates if SA device is unlocked",
-        "status": "New entry. Please translate!"
+        "status": "New entry."
     },
     "mainHelpArmed": {
         "message": "Motor Arming",
@@ -7660,7 +7661,7 @@
         "english": "Craft name"
     },
     "blackboxDevice": {
-        "message": "Blackbox Log-Gerät",
+        "message": "Blackbox Logging-Gerät",
         "english": "Blackbox logging device",
         "status": "übersetzt HM"
     },
@@ -7670,54 +7671,54 @@
         "status": "übersetzt HM"
     },
     "blackboxDebugMode": {
-        "message": "Blackbox debug mode",
+        "message": "Blackbox-Debugmodus",
         "english": "Blackbox debug mode",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "blackboxDebugModeUnknown": {
-        "message": "UNKNOWN",
+        "message": "Unbekannt",
         "english": "UNKNOWN",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "blackboxSerialLogger": {
-        "message": "Outboard serial logging device",
+        "message": "Externes serielles Logging-Gerät",
         "english": "Outboard serial logging device",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "blackboxFlashLogger": {
-        "message": "Onboard dataflash chip",
+        "message": "Eingebauter Flashspeicherchip",
         "english": "Onboard dataflash chip",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "blackboxSDCardLogger": {
-        "message": "Onboard SD card",
+        "message": "Eingebaute SD-Karte",
         "english": "Onboard SD card",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "blackboxEraseInProgress": {
-        "message": "Erase in progress, please wait...",
+        "message": "Löschvorgang läuft, bitte warten...",
         "english": "Erase in progress, please wait...",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "blackboxMsc": {
-        "message": "Mass Storage Mode",
+        "message": "Massenspeichermodus",
         "english": "Mass Storage Mode",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "blackboxMscNote": {
-        "message": "Reboot into <strong>mass storage device (MSC)</strong> mode. Once activated, the onboard flash or SD card on your flight controller will be recognised as a storage device by your computer, and allow you to download your log files. Eject and power cycle your flight controller to leave mass storage device mode.",
+        "message": "Neustart im <strong>mass storage device (MSC)</strong>-Modus. Sobald dieser Modus aktiviert ist, wird die integrierte Flash- oder SD-Karte Ihres Flugcontrollers von Ihrem Computer als Speichergerät erkannt und Sie können Ihre Logdateien herunterladen. Trennen Sie die Verbindung zum Flugcontroller und schalten Sie ihn aus, um den Massenspeichermodus zu verlassen.",
         "english": "Reboot into <strong>mass storage device (MSC)</strong> mode. Once activated, the onboard flash or SD card on your flight controller will be recognised as a storage device by your computer, and allow you to download your log files. Eject and power cycle your flight controller to leave mass storage device mode.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "blackboxRebootMscText": {
-        "message": "Activate Mass Storage Device Mode",
+        "message": "Aktivieren des Massenspeichergerätemodus",
         "english": "Activate Mass Storage Device Mode",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "blackboxMscNotReady": {
-        "message": "Mass storage mode can not be activated because the storage device is not ready.",
+        "message": "Der Massenspeichermodus kann nicht aktiviert werden, da das Speichergerät nicht bereit ist.",
         "english": "Mass storage mode can not be activated because the storage device is not ready.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "dialogConfirmResetTitle": {
         "message": "Bestätigen",
@@ -7736,24 +7737,24 @@
         "english": "Cancel"
     },
     "dialogConfirmArmingTitle": {
-        "message": "Confirm Arming",
+        "message": "Bestätige Arming",
         "english": "Confirm Arming",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "dialogConfirmArmingNote": {
-        "message": "WARNING: Are you sure you want to <strong>enable arming</strong> while Configurator is connected?",
+        "message": "WARNING: Sind Sie sicher, dass Sie das <strong>enable arming</strong> aktivieren wollen, während der Konfigurator angeschlossen ist?",
         "english": "WARNING: Are you sure you want to <strong>enable arming</strong> while Configurator is connected?",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "dialogConfirmArmingConfirm": {
-        "message": "Enable",
+        "message": "Aktivieren",
         "english": "Enable",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "dialogConfirmArmingClose": {
-        "message": "Cancel",
+        "message": "Abbrechen",
         "english": "Cancel",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "modeCameraWifi": {
         "message": "KAMERA WIFI-TASTE",
@@ -7780,17 +7781,17 @@
         "english": "Enable dark theme"
     },
     "dialogRatesTypeTitle": {
-        "message": "Rates type change",
+        "message": "Drehratenprofilyp ändern",
         "english": "Rates type change",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "dialogRatesTypeNote": {
-        "message": "<span class=\"message-negative\"><b>WARNING: You are changing the rates type.</b></span> If you change the rates type your rates will be set to a default curve.",
+        "message": "<span class=\"message-negative\"><b>WARNING: Sie ändern den Drehratenprofiltyp.</b></span> Nach dem Ändern des Drehratenprofiltyps werden Ihre Werte auf Standardeinstellungen gesetzt.",
         "english": "<span class=\"message-negative\"><b>WARNING: You are changing the rates type.</b></span> If you change the rates type your rates will be set to a default curve.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "dialogRatesTypeConfirm": {
-        "message": "Änderung",
+        "message": "Ändern",
         "english": "Change"
     },
     "gpsSbasAutoDetect": {
