@@ -559,9 +559,9 @@
         "english": "Address load for option bytes sector failed. Very likely due to read protection."
     },
     "stm32AddressLoadUnknown": {
-        "message": "Address load for option bytes sector failed with unknown error. Aborting.",
+        "message": "Das Laden der Adresse für den Option-Byte-Sektor ist mit einem unbekannten Fehler fehlgeschlagen. Abbruch.",
         "english": "Address load for option bytes sector failed with unknown error. Aborting.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. ??"
     },
     "stm32NotReadProtected": {
         "message": "Leseschutz nicht aktiv",
@@ -773,9 +773,9 @@
         "english": "EEPROM <span class=\"message-positive\">saved</span>"
     },
     "defaultWelcomeIntro": {
-        "message": "Welcome to <strong>Rotorflight - Configurator</strong>, a utility designed to simplify updating, configuring and tuning of your flight controller.",
+        "message": "Willkommen beim <strong>Rotorflight - Konfigurator</strong>, einem Werkzeug, das die Updates, Konfiguration und Optimierung Ihres Flugreglers vereinfacht.",
         "english": "Welcome to <strong>Rotorflight - Configurator</strong>, a utility designed to simplify updating, configuring and tuning of your flight controller.",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry."
     },
     "defaultWelcomeHead": {
         "message": "Hardware",
@@ -1027,9 +1027,9 @@
         "description": "Message that pops up to describe the BST arming disable flag"
     },
     "statusArmingDisableFlagsTooltipMSP": {
-        "message": "MSP connection is active, probably with this Rotorflight Configurator",
+        "message": "MSP-Verbindung ist aktiv, wahrscheinlich mit diesem Rotorflight Configurator",
         "english": "MSP connection is active, probably with this Rotorflight Configurator",
-        "status": "Modified entry. Please translate!",
+        "status": "Modified entry. ",
         "description": "Message that pops up to describe the MSP arming disable flag"
     },
     "statusArmingDisableFlagsTooltipPARALYZE": {
@@ -1632,7 +1632,7 @@
     "beeperMULTI_BEEPS": {
         "message": "",
         "english": "",
-        "status": "New entry. Please translate!"
+        "status": "New entry. OK"
     },
     "beeperDISARM_REPEAT": {
         "message": "Piepst solange der Stick in disarm Position gehalten wird",
@@ -2625,14 +2625,14 @@
         "status": "New entry. Please translate!"
     },
     "servoOverrideAngle": {
-        "message": "Angle",
+        "message": "Winkel",
         "english": "Angle",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry. "
     },
     "servoOverrideSlider": {
         "message": "",
         "english": "",
-        "status": "New entry. Please translate! ?"
+        "status": "New entry.  ?"
     },
     "mixerCustomNote": {
         "message": "<span class=\"message-negative\">Warnung:</span> Es wurden <strong>angepasste</strong> Mixer Regeln gefunden. Veränderungen sind nur im CLI mit dem <code>mixer</code> Befehl möglich.",
