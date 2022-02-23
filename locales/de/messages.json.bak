@@ -1559,12 +1559,12 @@
         "english": "<strong>Caution:</strong> Selecting a motor output protocol that is not supported by your ESCs can lead to the <strong>ESCs spinning up as soon as a battery is connected</strong>. For this reason, <strong>always make sure to remove the props before connecting a battery for the first time after changing the motor output protocol</strong>."
     },
     "configurationDshotBeeper": {
-        "message": "ESC Beacon Einstellung",
+        "message": "ESC Beacon Configuration",
         "english": "ESC Beacon Configuration",
         "status": "Modified entry. Please translate!"
     },
     "configurationDshotBeaconTone": {
-        "message": "Dshot Beacon Töne",
+        "message": "Dshot Beacon Tone",
         "english": "Dshot Beacon Tone",
         "status": "Modified entry. Please translate!"
     },
@@ -1573,7 +1573,7 @@
         "english": "The Dshot beacon uses the ESCs and motors to produce sound. This means that the Dshot beacon cannot be used when the motors are spinning. In Betaflight 3.4 and newer, when arming is attempted while the Dshot beacon is active, there is a 2 second delay after the last Dshot beacon tone before the craft is armed. This is to prevent the Dshot beacon functionality from interfering with the Dshot commands sent when arming.<br/><strong>Warning:</strong> Since the Dshot beacon is running current through your motors when active, this can result in excessive heat production and damage to your motors and / or ESCs if the beacon strength is set too high. Use BLHeli Configurator or the BLHeli Suite to adjust and test the beacon strength."
     },
     "configurationBeeper": {
-        "message": "Buzzer Konfiguration",
+        "message": "Buzzer Configuration",
         "english": "Buzzer Configuration",
         "status": "Modified entry. Please translate!"
     },
@@ -1698,7 +1698,7 @@
         "english": "<strong>Note:</strong> Make sure your FC is able to operate at these speeds! Check CPU and cycletime stability. Changing this may require PID re-tuning. TIP: Disable Accelerometer and other sensors to gain more performance."
     },
     "configurationGPS": {
-        "message": "Einstellungen",
+        "message": "Settings",
         "english": "Settings",
         "status": "Modified entry. Please translate!"
     },
@@ -1743,17 +1743,17 @@
         "description": "Help text for the option to set the Home Point with the first arm only, not with each arm in the GPS Configuration"
     },
     "configurationSerialRX": {
-        "message": "Serielles Empfänger Protokoll",
+        "message": "Serial Receiver Protocol",
         "english": "Serial Receiver Protocol",
         "status": "Modified entry. Please translate!"
     },
     "configurationSerialRXInverted": {
-        "message": "Verbindung invertieren",
+        "message": "Inverted Serial Line",
         "english": "Inverted Serial Line",
         "status": "New entry. Please translate!"
     },
     "configurationSerialRXHalfDuplex": {
-        "message": "Half-Duplex Protokoll",
+        "message": "Half-Duplex Communication",
         "english": "Half-Duplex Communication",
         "status": "New entry. Please translate!"
     },
@@ -1766,19 +1766,19 @@
         "english": "EEPROM <span class=\"message-positive\">saved</span>"
     },
     "dialogDynFiltersChangeTitle": {
-        "message": "Dynamic Notch ändern",
+        "message": "Dynamic Notch values change",
         "english": "Dynamic Notch values change",
         "status": "New entry. Please translate!"
     },
     "dialogDynFiltersChangeNote": {
-        "message": "<span class=\"message-negative\"><b>WARUNG: Einige Werte des Dynamic Notch wurden auf die Standardwerte zurückgesetzt</b></span> da die RPM Filterung verändert wurde.<br> Bitte prüfen.",
+        "message": "<span class=\"message-negative\"><b>WARNING: Some dynamic notch values have been changed to default values</b></span> because the RPM filtering has been activated/deactivated.<br> Please, check before flying.",
         "english": "<span class=\"message-negative\"><b>WARNING: Some dynamic notch values have been changed to default values</b></span> because the RPM filtering has been activated/deactivated.<br> Please, check before flying.",
         "status": "New entry. Please translate!"
     },
     "dialogDynFiltersConfirm": {
         "message": "OK",
         "english": "OK",
-        "status": "New entry. Please translate! OK :-)"
+        "status": "New entry. Please translate!"
     },
     "portsIdentifier": {
         "message": "Identifier",
@@ -1901,7 +1901,7 @@
         "english": "OSD (FrSky Protocol)"
     },
     "receiverBars": {
-        "message": "Kanäle",
+        "message": "Receiver Channels",
         "english": "Receiver Channels",
         "status": "New entry. Please translate!"
     },
@@ -1910,27 +1910,27 @@
         "english": "RC Smoothing"
     },
     "receiverRcSmoothingRoll": {
-        "message": "Roll Glättung",
+        "message": "Roll Channel Smoothing",
         "english": "Roll Channel Smoothing",
         "status": "New entry. Please translate!"
     },
     "receiverRcSmoothingPitch": {
-        "message": "Nick Glättung",
+        "message": "Pitch Channel Smoothing",
         "english": "Pitch Channel Smoothing",
         "status": "New entry. Please translate!"
     },
     "receiverRcSmoothingYaw": {
-        "message": "Heck Glättung",
+        "message": "Yaw Channel Smoothing",
         "english": "Yaw Channel Smoothing",
         "status": "New entry. Please translate!"
     },
     "receiverRcSmoothingThrottle": {
-        "message": "Gas Glättung",
+        "message": "Throttle Channel Smoothing",
         "english": "Throttle Channel Smoothing",
         "status": "New entry. Please translate!"
     },
     "receiverRcSmoothingCollective": {
-        "message": "Pitch Glättung",
+        "message": "Collective Channel Smoothing",
         "english": "Collective Channel Smoothing",
         "status": "New entry. Please translate!"
     },
@@ -2077,37 +2077,37 @@
         "english": "Cancel"
     },
     "profilesSubTab1": {
-        "message": "Profil #1",
+        "message": "Profile #1",
         "english": "Profile #1",
         "status": "New entry. Please translate!"
     },
     "profilesSubTab2": {
-        "message": "Profil #2",
+        "message": "Profile #2",
         "english": "Profile #2",
         "status": "New entry. Please translate!"
     },
     "profilesSubTab3": {
-        "message": "Profil #3",
+        "message": "Profile #3",
         "english": "Profile #3",
         "status": "New entry. Please translate!"
     },
     "profilesSubTab4": {
-        "message": "Profil #4",
+        "message": "Profile #4",
         "english": "Profile #4",
         "status": "New entry. Please translate!"
     },
     "profilesSubTab5": {
-        "message": "Profil #5",
+        "message": "Profile #5",
         "english": "Profile #5",
         "status": "New entry. Please translate!"
     },
     "profilesSubTab6": {
-        "message": "Profil #6",
+        "message": "Profile #6",
         "english": "Profile #6",
         "status": "New entry. Please translate!"
     },
     "profilesPIDGains": {
-        "message": "Achse",
+        "message": "Axis",
         "english": "Axis",
         "status": "New entry. Please translate!"
     },
@@ -2156,7 +2156,7 @@
         "english": "Reset all profile values"
     },
     "profilesActivateProfile": {
-        "message": "Geladenes Profil: <strong class=\"message-positive\">$1</strong>",
+        "message": "Loaded Profile: <strong class=\"message-positive\">$1</strong>",
         "english": "Loaded Profile: <strong class=\"message-positive\">$1</strong>",
         "status": "New entry. Please translate!"
     },
@@ -2241,7 +2241,7 @@
         "english": "Preview"
     },
     "receiverMspWarningText": {
-        "message": "Mit den virtuellen Steuerflächen kann Rotorflight gearmed und gesteuert werden. <strong>Vor Verwendung Rotorblätter abnehmen</strong><br /><br /><strong>NUR FÜR TESTZWECKE OHNE ROTORBLÄTTER!!!!! NICHT ZUM FLIEGEN GEEIGNET!!!!!</strong>",
+        "message": "These sticks allow Rotorflight to be armed and tested without a transmitter or receiver being present. However, <strong>this feature is not intended for flight and rotor blades must not be attached.</strong><br /><br />This feature does not guarantee reliable control of your craft. <strong>Serious injury is likely to result if rotor blades are left on.</strong>",
         "english": "These sticks allow Rotorflight to be armed and tested without a transmitter or receiver being present. However, <strong>this feature is not intended for flight and rotor blades must not be attached.</strong><br /><br />This feature does not guarantee reliable control of your craft. <strong>Serious injury is likely to result if rotor blades are left on.</strong>",
         "status": "Modified entry. Please translate!"
     },
@@ -2322,7 +2322,7 @@
         "english": "is in range"
     },
     "adjustmentsColumnThenApplyFunction": {
-        "message": "Wert des Kanals übernehmen zwischen <br>Minimum und Maximum in Schrittweite übernehmen",
+        "message": "then apply value from channel,<br>limited between minimum and maximum, with step size",
         "english": "then apply value from channel,<br>limited between minimum and maximum, with step size",
         "status": "Modified entry. Please translate!"
     },
@@ -2335,42 +2335,42 @@
         "english": "Max"
     },
     "adjustmentsFunctionNone": {
-        "message": "Keine Veränderung",
+        "message": "No changes",
         "english": "No changes",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionPitchRate": {
-        "message": "Nick Rate",
+        "message": "Pitch Rate",
         "english": "Pitch Rate",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionRollRate": {
         "message": "Roll Rate",
         "english": "Roll Rate",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionYawRate": {
-        "message": "Heck Rate",
+        "message": "Yaw Rate",
         "english": "Yaw Rate",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionPitchRCRate": {
-        "message": "Nick RC Rate",
+        "message": "Pitch RC Rate",
         "english": "Pitch RC Rate",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionRollRCRate": {
         "message": "Roll RC Rate",
         "english": "Roll RC Rate",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionYawRCRate": {
-        "message": "Heck RC Rate",
+        "message": "Yaw RC Rate",
         "english": "Yaw RC Rate",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionPitchRCExpo": {
-        "message": "Nick RC Expo",
+        "message": "Pitch RC Expo",
         "english": "Pitch RC Expo",
         "status": "New entry. Please translate!"
     },
@@ -2380,27 +2380,27 @@
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionYawRCExpo": {
-        "message": "Heck RC Expo",
+        "message": "Yaw RC Expo",
         "english": "Yaw RC Expo",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionPitchP": {
-        "message": "Nick P-gain",
+        "message": "Pitch P-gain",
         "english": "Pitch P-gain",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionPitchI": {
-        "message": "Nick I-gain",
+        "message": "Pitch I-gain",
         "english": "Pitch I-gain",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionPitchD": {
-        "message": "Nick D-gain",
+        "message": "Pitch D-gain",
         "english": "Pitch D-gain",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionPitchF": {
-        "message": "Nick F-gain",
+        "message": "Pitch F-gain",
         "english": "Pitch F-gain",
         "status": "New entry. Please translate!"
     },
@@ -2425,259 +2425,259 @@
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionYawP": {
-        "message": "Heck P-gain",
+        "message": "Yaw P-gain",
         "english": "Yaw P-gain",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionYawI": {
-        "message": "Heck I-gain",
+        "message": "Yaw I-gain",
         "english": "Yaw I-gain",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionYawD": {
-        "message": "Heck D-gain",
+        "message": "Yaw D-gain",
         "english": "Yaw D-gain",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionYawF": {
-        "message": "Heck F-gain",
+        "message": "Yaw F-gain",
         "english": "Yaw F-gain",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionYawCenter": {
-        "message": "Heck Mittelstellung",
+        "message": "Yaw Center Offset",
         "english": "Yaw Center Offset",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionYawCWStopGain": {
-        "message": "Heck Rechts Stop Gain",
+        "message": "Yaw CW Stop Gain",
         "english": "Yaw CW Stop Gain",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionYawCCWStopGain": {
-        "message": "Heck Links Stop Gain",
+        "message": "Yaw CCW Stop Gain",
         "english": "Yaw CCW Stop Gain",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionYawCyclicFF": {
-        "message": "Heck Cyclic Precomp",
+        "message": "Yaw Cyclic Precomp",
         "english": "Yaw Cyclic Precomp",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionYawCollectiveFF": {
-        "message": "Heck Collective Precomp",
+        "message": "Yaw Collective Precomp",
         "english": "Yaw Collective Precomp",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionYawImpulseFF": {
-        "message": "Heck Collective Impulse Precomp",
+        "message": "Yaw Collective Impulse Precomp",
         "english": "Yaw Collective Impulse Precomp",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionRescueCollective": {
-        "message": "Rettung Collective",
+        "message": "Rescue Collective",
         "english": "Rescue Collective",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionRescueCollectiveBoost": {
-        "message": "Rettung Collective Boost",
+        "message": "Rescue Collective Boost",
         "english": "Rescue Collective Boost",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionAngleLevelStrength": {
-        "message": "Angle mode Stärke",
+        "message": "Angle mode leveling strength",
         "english": "Angle mode leveling strength",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionHorizonLevelStrength": {
-        "message": "Horizon mode Stärke",
+        "message": "Horizon mode leveling strength",
         "english": "Horizon mode leveling strength",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionAcroTrainerGain": {
-        "message": "Acro Trainer Stärke",
+        "message": "Acro Trainer leveling strength",
         "english": "Acro Trainer leveling strength",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionGovernorGain": {
         "message": "Governor PID-gain",
         "english": "Governor PID-gain",
-        "status": "New entry. Please translate! I would leave it like that"
+        "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionGovernorP": {
         "message": "Governor P-gain",
         "english": "Governor P-gain",
-        "status": "New entry. Please translate! I would leave it like that"
+        "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionGovernorI": {
         "message": "Governor I-gain",
         "english": "Governor I-gain",
-        "status": "New entry. Please translate! I would leave it like that"
+        "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionGovernorD": {
         "message": "Governor D-gain",
         "english": "Governor D-gain",
-        "status": "New entry. Please translate! I would leave it like that"
+        "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionGovernorF": {
         "message": "Governor F-gain",
         "english": "Governor F-gain",
-        "status": "New entry. Please translate! I would leave it like that"
+        "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionGovernorTTA": {
         "message": "Governor TTA-gain",
         "english": "Governor TTA-gain",
-        "status": "New entry. Please translate! I would leave it like that"
+        "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionGovernorCyclicFF": {
-        "message": "Governor Pitch Precomp",
+        "message": "Governor Cyclic Precomp",
         "english": "Governor Cyclic Precomp",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionGovernorCollectiveFF": {
-        "message": "Governor Pitch Precomp",
+        "message": "Governor Collective Precomp",
         "english": "Governor Collective Precomp",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionRateProfile": {
-        "message": "Rate Profilauswahl",
+        "message": "Rate Profile Selection",
         "english": "Rate Profile Selection",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionPIDProfile": {
-        "message": "Profilauswahl",
+        "message": "Profile Selection",
         "english": "Profile Selection",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionOSDProfile": {
-        "message": "OSD Profilauswahl",
+        "message": "OSD Profile Selection",
         "english": "OSD Profile Selection",
         "status": "New entry. Please translate!"
     },
     "adjustmentsFunctionLEDProfile": {
-        "message": "LED Profilauswahl",
+        "message": "LED Profile Selection",
         "english": "LED Profile Selection",
         "status": "New entry. Please translate!"
     },
     "servoConfiguration": {
-        "message": "Servo Einstellungen",
+        "message": "Servo Configuration",
         "english": "Servo Configuration",
         "status": "New entry. Please translate!"
     },
     "servoNumber": {
         "message": "Servo",
         "english": "Servo",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry. Please translate!"
     },
     "servoMid": {
-        "message": "Mitte",
+        "message": "Center",
         "english": "Center",
         "status": "New entry. Please translate!"
     },
     "servoMin": {
         "message": "Min",
         "english": "Min",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry. Please translate!"
     },
     "servoMax": {
         "message": "Max",
         "english": "Max",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry. Please translate!"
     },
     "servoRate": {
         "message": "Rate",
         "english": "Rate",
-        "status": "New entry. Please translate!  Its ok for German"
+        "status": "New entry. Please translate!"
     },
     "servoTrim": {
-        "message": "Trimmung",
+        "message": "Trim",
         "english": "Trim",
         "status": "New entry. Please translate!"
     },
     "servoSpeed": {
-        "message": "Geschwindigkeit [ms]",
+        "message": "Speed [ms]",
         "english": "Speed [ms]",
         "status": "New entry. Please translate!"
     },
     "servoReverse": {
-        "message": "Umkehren",
+        "message": "Reverse",
         "english": "Reverse",
         "status": "New entry. Please translate!"
     },
     "servoSignal": {
         "message": "PWM Signal",
         "english": "PWM Signal",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry. Please translate!"
     },
     "servoOverrideNote": {
-        "message": "<strong>Achtung</strong> das überschreiben der Servosteuerung fährt die Servos in eine voreingestellte Position. Die Einstellungen werden nicht gespeichert.",
+        "message": "<strong>Note.</strong> Servo Override forces the servos to fixed positions for setup purposes. The override values are not saved, and will be reset in reboot.",
         "english": "<strong>Note.</strong> Servo Override forces the servos to fixed positions for setup purposes. The override values are not saved, and will be reset in reboot.",
         "status": "New entry. Please translate!"
     },
     "servoOverride": {
-        "message": "Servosteuerung Überschreiben",
+        "message": "Servo Override",
         "english": "Servo Override",
         "status": "New entry. Please translate!"
     },
     "servoOverrideEnable": {
-        "message": "Aktivieren"
+        "message": "Enable",
         "english": "Enable",
         "status": "New entry. Please translate!"
     },
     "servoOverrideAngle": {
         "message": "Angle",
         "english": "Angle",
-        "status": "New entry. Please translate! Its ok for German"
+        "status": "New entry. Please translate!"
     },
     "servoOverrideSlider": {
         "message": "",
         "english": "",
-        "status": "New entry. Please translate! ?"
+        "status": "New entry. Please translate!"
     },
     "mixerCustomNote": {
-        "message": "<span class=\"message-negative\">Warnung:</span> Es wurden <strong>angepasste</strong> Mixer Regeln gefunden. Veränderungen sind nur im CLI mit dem <code>mixer</code> Befehl möglich.",
+        "message": "<span class=\"message-negative\">Warning:</span> The Mixer is configured with <strong>custom</strong> rules. Any configuration changes must be done in the CLI, with the <code>mixer</code> command.",
         "english": "<span class=\"message-negative\">Warning:</span> The Mixer is configured with <strong>custom</strong> rules. Any configuration changes must be done in the CLI, with the <code>mixer</code> command.",
         "status": "New entry. Please translate!"
     },
     "mixerBidirNote": {
-        "message": "<span class=\"message-negative\">Warnung:</span> <i>Bidirektionales Motorheck</i> ist experimentell und kann nur im CLI eingestellt werden.",
+        "message": "<span class=\"message-negative\">Warning:</span> <i>Bidirectional tail motor</i> is an experimental feature that requires additional settings in the CLI.",
         "english": "<span class=\"message-negative\">Warning:</span> <i>Bidirectional tail motor</i> is an experimental feature that requires additional settings in the CLI.",
         "status": "New entry. Please translate!"
     },
     "mixerMainRotorSettings": {
-        "message": "Einstellungen Hauptrotor",
+        "message": "Main Rotor Settings",
         "english": "Main Rotor Settings",
         "status": "New entry. Please translate!"
     },
     "mixerMainRotorDirection": {
-        "message": "Drehrichtung Hauptrotor",
+        "message": "Main rotor direction",
         "english": "Main rotor direction",
         "status": "New entry. Please translate!"
     },
     "mixerMainRotorDirectionHelp": {
-        "message": "Welche Drehrichtung, von oben gesehen, wird verwendet? Diese ist üblicherweise rechts",
+        "message": "Looking from the top of the helicopter, what direction is the main rotor turning? For the majority of helicopters this is clockwise",
         "english": "Looking from the top of the helicopter, what direction is the main rotor turning? For the majority of helicopters this is clockwise",
         "status": "New entry. Please translate!"
     },
     "mixerClockwise": {
-        "message": "Im Uhrzeigersinn",
+        "message": "Clockwise",
         "english": "Clockwise",
         "status": "New entry. Please translate!"
     },
     "mixerCounterClockwise": {
-        "message": "Gegen den Uhrzeigersinn",
+        "message": "Counter-Clockwise",
         "english": "Counter-Clockwise",
         "status": "New entry. Please translate!"
     },
     "mixerSwashType": {
-        "message": "Taumelscheibentyp",
+        "message": "Swashplate type",
         "english": "Swashplate type",
         "status": "New entry. Please translate!"
     },
     "mixerSwashTypeHelp": {
-        "message": "Bitte den richtigen Taumelscheibentyp auswählen.<br><strong>Winkel:</strong> Dies ist der Winkel zwischen den Nick und Rollservos. Die möglichen Werte sind 120deg, 135deg und 140deg abhängig vom verwendeten Modell.<br><strong>Nick:</strong> Einige Modelle verwenden ein vorne angeordnetes Nick Servo. Bitte korrekte Anordnung auswählen <br><strong>Individuelle Mixereinstellungen:</strong> Nur im CLI möglich. ",
+        "message": "Select the swashplate type for your helicopter.<br><strong>Angle:</strong> This is the angle between the elevator and each of the aileron servos. The options are 120&deg, 135&deg and 140&deg. This is dependant on the helicopters design.<br><strong>Elevator:</strong> Some helicopters the elevator servo (inline with tail and nose) is at the front of the heli, while others are at the rear. Choose the one applicable to your helicopter <br><strong>Custom mixing:</strong> This option can only be configured through the CLI. ",
         "english": "Select the swashplate type for your helicopter.<br><strong>Angle:</strong> This is the angle between the elevator and each of the aileron servos. The options are 120&deg, 135&deg and 140&deg. This is dependant on the helicopters design.<br><strong>Elevator:</strong> Some helicopters the elevator servo (inline with tail and nose) is at the front of the heli, while others are at the rear. Choose the one applicable to your helicopter <br><strong>Custom mixing:</strong> This option can only be configured through the CLI. ",
-        "status": "New entry. Please translate! 22.02.2022 jasc"
+        "status": "New entry. Please translate!"
     },
     "mixerSwashType0": {
         "message": "Custom Mixing",
