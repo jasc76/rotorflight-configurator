@@ -5027,125 +5027,125 @@
         "english": "Rates Preview"
     },
     "gyroFilterSettings": {
-        "message": "Gyro Filter Settings",
+        "message": "Gyro Filter Einstellungen",
         "english": "Gyro Filter Settings",
-        "status": "Modified entry. Please translate!"
+        "status": "Modified entry."
     },
     "gyroDTermFilterSettings": {
-        "message": "Gyro D-term Filter Settings",
+        "message": "Gyro D-term Filter Einstellungen",
         "english": "Gyro D-term Filter Settings",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroLowpassFiltersGroup": {
-        "message": "Gyro Lowpass Filters",
+        "message": "Gyro Tiefpass Filter",
         "english": "Gyro Lowpass Filters",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroLowpassFrequency": {
-        "message": "Gyro Lowpass 1 Cutoff Frequency [Hz]",
+        "message": "Gyro Tiefpass 1 Cutoff Frequenz [Hz]",
         "english": "Gyro Lowpass 1 Cutoff Frequency [Hz]",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroLowpassType": {
-        "message": "Gyro Lowpass 1 Filter Type",
+        "message": "Gyro Tiefpass 1 Filtertyp",
         "english": "Gyro Lowpass 1 Filter Type",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroLowpassDynMinFrequency": {
-        "message": "Gyro Lowpass 1 Dynamic Min Cutoff Frequency [Hz]",
+        "message": "Gyro Tiefpass 1 Dynamik Min Cutoff Frequenz [Hz]",
         "english": "Gyro Lowpass 1 Dynamic Min Cutoff Frequency [Hz]",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroLowpassDynMaxFrequency": {
-        "message": "Gyro Lowpass 1 Dynamic Max Cutoff Frequency [Hz]",
+        "message": "Gyro Tiefpass 1 Dynamik Max Cutoff Frequenz [Hz]",
         "english": "Gyro Lowpass 1 Dynamic Max Cutoff Frequency [Hz]",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroLowpass2Frequency": {
-        "message": "Gyro Lowpass 2 Cutoff Frequency [Hz]",
+        "message": "Gyro Tiefpass 2 Cutoff Frequenz [Hz]",
         "english": "Gyro Lowpass 2 Cutoff Frequency [Hz]",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroLowpass2Type": {
-        "message": "Gyro Lowpass 2 Filter Type",
+        "message": "Gyro Tiefpass 2 Filtertyp",
         "english": "Gyro Lowpass 2 Filter Type",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroLowpassFilterHelp": {
-        "message": "Die Lowpass Filter können zwei Ausprägungen haben: statisch und dynamisch. Nur eine der beiden Varianten kann für einen funktionsfähigen Lowpass Filter aktiviert sein. Der Statische definiert einen Wert, bei dem die Filterung beginnt. Der Dynamische definiert Min- und Maxwerte, zwischen denen die Filterung patziert wird. Diese bewegt sich dann mit der Gashebelstellung in diesem Korridor.",
+        "message": "Die Tiefpass Filter können zwei Ausprägungen haben: statisch und dynamisch. Nur eine der beiden Varianten kann für einen funktionsfähigen Tiefpassfilter aktiviert sein. Der Statische definiert einen Wert, bei dem die Filterung beginnt. Der Dynamische definiert Min- und Maxwerte, zwischen denen die Filterung patziert wird. Diese bewegt sich dann mit der Gashebelstellung in diesem Korridor.",
         "english": "The Lowpass Filters can have two variants: static and dynamic. For a determined lowpass filter number only one (static or dynamic) can be enabled at the same time. The static only has a Cutoff that is a value that defines in some way where the filter starts. The dynamic defines a min and max values, that is the range where the Cutoff is placed. This Cutoff moves from min to max at the same time than you move the throttle stick."
     },
     "gyroNotchFiltersGroup": {
-        "message": "Gyro Notch Filters",
+        "message": "Gyro Kerbfilter",
         "english": "Gyro Notch Filters",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroNotch1Frequency": {
-        "message": "Gyro Notch Filter 1 Center Frequency [Hz]",
+        "message": "Gyro Kerbfilter 1 Mittenfrequenz [Hz]",
         "english": "Gyro Notch Filter 1 Center Frequency [Hz]",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroNotch2Frequency": {
-        "message": "Gyro Notch Filter 2 Center Frequency [Hz]",
+        "message": "Gyro Kerbfilter 2 Mittenfrequenz [Hz]",
         "english": "Gyro Notch Filter 2 Center Frequency [Hz]",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroNotch1Cutoff": {
-        "message": "Gyro Notch Filter 1 Cutoff Frequency [Hz]",
+        "message": "Gyro Kerbfilter 1 Cutoff Frequenz [Hz]",
         "english": "Gyro Notch Filter 1 Cutoff Frequency [Hz]",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroNotch2Cutoff": {
-        "message": "Gyro Notch Filter 2 Cutoff Frequency [Hz]",
+        "message": "Gyro Kerbfilter 2 Cutoff Frequenz [Hz]",
         "english": "Gyro Notch Filter 2 Cutoff Frequency [Hz]",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroNotchFilterHelp": {
-        "message": "The Notch Filter has a Center and a Cutoff. The filter is symmetrical. The Center Frequency is the center of the filter and the Cutoff Frequency is where Notch filter starts. For example with Notch Cutoff of 160 and Notch Center of 260 it means the range is 160-360Hz with most attenuation around center",
+        "message": "Der Notch-Filter hat eine Mitte und einen Cutoff. Der Filter ist symmetrisch. Die Mittenfrequenz ist die Mitte des Filters und die Cutoff-Frequenz ist der Punkt, an dem der Notch-Filter beginnt. Zum Beispiel mit Notch Cutoff von 160 und Notch Center von 260 bedeutet dies, dass der Bereich 160-360Hz mit der größten Dämpfung um die Mitte herum ist.",
         "english": "The Notch Filter has a Center and a Cutoff. The filter is symmetrical. The Center Frequency is the center of the filter and the Cutoff Frequency is where Notch filter starts. For example with Notch Cutoff of 160 and Notch Center of 260 it means the range is 160-360Hz with most attenuation around center"
     },
     "gyroDynamicNotchFilterGroup": {
-        "message": "Dynamischer Notch-Filter",
+        "message": "Dynamischer Kerbfilter",
         "english": "Dynamic Notch Filter"
     },
     "gyroDynamicNotchFilterHelp": {
-        "message": "Der Dynamische Notch-Filter verfolgt die Frequenz der Motoren und legt einen oder zwei Notch Filter mit ihrem Zentrum an dieser Frequenz.",
+        "message": "Der Dynamische Kerbfilter verfolgt die Frequenz der Motoren und legt einen oder zwei Kerbfilter mit ihrem Zentrum an dieser Frequenz.",
         "english": "Dynamic Notch Filter tracks peak motors noise frequency and places one or two notch filters with their center at that frequency."
     },
     "gyroDynamicNotchWidthPercent": {
-        "message": "prozentuale Breite des dynamischen Notch-Filters",
+        "message": "prozentuale Breite des dynamischen Kerbfilters",
         "english": "Dynamic Notch Width Percent"
     },
     "gyroDynamicNotchQ": {
-        "message": "Q des dynamischen Notch-Filters",
+        "message": "Q des dynamischen Kerbfilters",
         "english": "Dynamic Notch Q"
     },
     "gyroDynamicNotchMinHz": {
-        "message": "Minimale Frequenz des dynamischen Notch-Filters",
+        "message": "Minimale Frequenz des dynamischen Kerbfilters",
         "english": "Dynamic Notch Min Hz"
     },
     "gyroDynamicNotchMaxHz": {
-        "message": "Dynamic Notch Max Hz",
+        "message": "Maximale Frequenz des dynamischen Kerbfilters",
         "english": "Dynamic Notch Max Hz",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroDynamicNotchWidthPercentHelp": {
-        "message": "Dies setzt die Breite zwischen zwei dynamischen Notch-Filtern. Wenn sie auf 0 gesetzt ist, wird der zweite dynamische Notch-Filter deaktiviert und die Filterverzögerung verringert, was die Motortemperatur erhöhen kann.",
+        "message": "Dies setzt die Breite zwischen zwei dynamischen Kerbfiltern. Wenn sie auf 0 gesetzt ist, wird der zweite dynamische Kerbilter deaktiviert und die Filterverzögerung verringert, was die Motortemperatur erhöhen kann.",
         "english": "This sets the width between two dynamic notch filters. Setting it at 0 will disable the second dynamic notch filter and will reduce filter delay, however it may make motor temperatures higher."
     },
     "gyroDynamicNotchQHelp": {
-        "message": "Der Q-Faktor passt an, wie eng oder breit die dynamischen Notch-Filter sind. Höhere Werte machen ihn schmaler und präziser, niedrige Werte machen ihn weiter und breiter. Durch einen wirklich niedrigen Wert wird die Filterverzögerung erheblich erhöht.",
+        "message": "Der Q-Faktor passt an, wie eng oder breit die dynamischen Kerbfilter sind. Höhere Werte machen ihn schmaler und präziser, niedrige Werte machen ihn weiter und breiter. Durch einen wirklich niedrigen Wert wird die Filterverzögerung erheblich erhöht.",
         "english": "Q factor adjust how narrow or wide the dynamic notch filters are. Higher value makes it narrower and more precise and lower value makes it wider and broader. Having a really low value will greatly increase filter delay."
     },
     "gyroDynamicNotchMinHzHelp": {
-        "message": "Set this to the lowest incoming noise frequency that is needed to be controlled by the dynamic notch.",
+        "message": "Stellen Sie hier die niedrigste Frequenz des eingehenden Störsignals ein, die vom dynamischen Kerbfilter verarbeitet werden soll",
         "english": "Set this to the lowest incoming noise frequency that is needed to be controlled by the dynamic notch.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroDynamicNotchMaxHzHelp": {
-        "message": "Set this to the highest incoming noise frequency that is needed to be controlled by the dynamic notch.",
+        "message": "Stellen Sie hier die höchste Frequenz des eingehenden Störsignals ein, die vom dynamischen Kerbfilter verarbeitet werden soll.",
         "english": "Set this to the highest incoming noise frequency that is needed to be controlled by the dynamic notch.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroDTermLowpassFiltersGroup": {
         "message": "D Term Lowpass Filter",
@@ -5188,165 +5188,165 @@
         "english": "D Term Notch Filter Cutoff Frequency [Hz]"
     },
     "gyroRpmFilterSettings": {
-        "message": "Gyro RPM Notch Filter Settings",
+        "message": "Gyro RPM Kerbfilter Einstellungen",
         "english": "Gyro RPM Notch Filter Settings",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterSetup": {
-        "message": "Setup Type",
+        "message": "Setup Typ",
         "english": "Setup Type",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterSetupBasic": {
         "message": "Basic",
         "english": "Basic",
-        "status": "New entry. Please translate!"
+        "status": "New entry. Its fine for German"
     },
     "gyroRpmFilterSetupAdvanced": {
-        "message": "Advanced",
+        "message": "Erweitert",
         "english": "Advanced",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterSetupCustom": {
-        "message": "Custom",
+        "message": "Benutzerdefiniert",
         "english": "Custom",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterCustomNote": {
-        "message": "<span class=\"message-negative\">Warning:</span> Custom RPM Notch Filter configuration is in use.<br>Please use the CLI to change the RPM Filter settings.",
+        "message": "<span class=\"message-negative\">Warnung:</span> Es wird eine benutzerdefinierte RPM Kerbfilterkonfiguration verwendet.<br>Benutzen Sie die CLI, um die RPM Filtereinstellungen zu ändern.",
         "english": "<span class=\"message-negative\">Warning:</span> Custom RPM Notch Filter configuration is in use.<br>Please use the CLI to change the RPM Filter settings.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterVibrationLevel": {
-        "message": "Vibration Level",
+        "message": "Vibrationslevel",
         "english": "Vibration Level",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterVibrationLow": {
-        "message": "Low",
+        "message": "Gering",
         "english": "Low",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterVibrationMedium": {
         "message": "Medium",
         "english": "Medium",
-        "status": "New entry. Please translate!"
+        "status": "New entry. Its fine for German"
     },
     "gyroRpmFilterVibrationHigh": {
-        "message": "High",
+        "message": "Hoch",
         "english": "High",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterMainRotorMinRPM": {
-        "message": "Main Rotor Minimum Filtered RPM",
+        "message": "Mindestdrehzahl des Hauptrotors gefiltert",
         "english": "Main Rotor Minimum Filtered RPM",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterTailRotorMinRPM": {
-        "message": "Tail Rotor Minimum Filtered RPM",
+        "message": "Mindestdrehzahl des Heckrotors gefiltert",
         "english": "Tail Rotor Minimum Filtered RPM",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterBanks": {
-        "message": "Gyro RPM Notch Filter Banks",
+        "message": "Gyro RPM Kerbfilter Banken",
         "english": "Gyro RPM Notch Filter Banks",
-        "status": "New entry. Please translate!"
+        "status": "New entry. ? "
     },
     "gyroRpmFilterHelp": {
-        "message": "RPM filtering is a bank of notch filters on gyro which use the RPM telemetry data to remove noise with surgical precision.<br /><br /><b><span class=\"message-positive\">IMPORTANT</span>: The ESC must support the Bidirectional DShot protocol and the value of the $t(configurationMotorPoles.message) in the $t(tabMotors.message) tab must be correct for this filter to work.</b>",
+        "message": "Die RPM-Filterung ist eine Reihe von Kerbfiltern auf dem Kreisel, die die RPM-Telemetriedaten verwenden, um Störsignale mit chirurgischer Präzision zu entfernen.<br /><br /><b><span class=\"message-positive\">ACHTUNG</span>: Das ESC muss das bidirektionale DShot-Protokoll unterstützen und der Wert des $t(configurationMotorPoles.message) in dem $t(tabMotors.message) Registerkarte muss korrekt sein, damit dieser Filter funktioniert.</b>",
         "english": "RPM filtering is a bank of notch filters on gyro which use the RPM telemetry data to remove noise with surgical precision.<br /><br /><b><span class=\"message-positive\">IMPORTANT</span>: The ESC must support the Bidirectional DShot protocol and the value of the $t(configurationMotorPoles.message) in the $t(tabMotors.message) tab must be correct for this filter to work.</b>",
-        "status": "Modified entry. Please translate!",
+        "status": "Modified entry. ",
         "description": "Header text for the RPM Filter group"
     },
     "gyroRpmFilterMainRotorGroup": {
-        "message": "Main Rotor Notch Filters",
+        "message": "Hauptrotor Kerbfilter",
         "english": "Main Rotor Notch Filters",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterMainRotorHelp": {
-        "message": "RPM filters for the main rotor harmonics",
+        "message": "RPM-Filter für die Oberwellen des Hauptrotors",
         "english": "RPM filters for the main rotor harmonics",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterTailRotorGroup": {
-        "message": "Tail Rotor Notch Filters",
+        "message": "Heckrotor Kerbfilter",
         "english": "Tail Rotor Notch Filters",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterTailRotorHelp": {
-        "message": "RPM filters for the tail rotor harmonics",
+        "message": "RPM-Filter für die Oberwellen des Heckrotors",
         "english": "RPM filters for the tail rotor harmonics",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterMainMotorGroup": {
-        "message": "Main Motor Notch Filters",
+        "message": "Hauptmotor Kerbfilter",
         "english": "Main Motor Notch Filters",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterMainMotorHelp": {
-        "message": "RPM filters for the main motor harmonics",
+        "message": "RPM-Filter für die Oberwellen des Hauptmotors",
         "english": "RPM filters for the main motor harmonics",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterH1": {
-        "message": "Fundamental Frequency Notch type",
+        "message": "Grundfrequenz Kerbfiltertyp",
         "english": "Fundamental Frequency Notch type",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterQ1": {
-        "message": "Fundamental Frequency Notch Q",
+        "message": "Grundfrequenz Kerbfiltertyp Q",
         "english": "Fundamental Frequency Notch Q",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterH2": {
-        "message": "2<sup>nd</sup> Harmonic Notch Type",
+        "message": "2<sup>nd</sup> Harmonischer Kerbfilter-Typ",
         "english": "2<sup>nd</sup> Harmonic Notch Type",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterQ2": {
-        "message": "2<sup>nd</sup> Harmonic Notch Q",
+        "message": "2<sup>nd</sup> Harmonischer Kerbfilter-Typ Q",
         "english": "2<sup>nd</sup> Harmonic Notch Q",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterH3": {
-        "message": "3<sup>rd</sup> Harmonic Notch Type",
+        "message": "3<sup>rd</sup> Harmonischer Kerbfilter-Typ",
         "english": "3<sup>rd</sup> Harmonic Notch Type",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterQ3": {
-        "message": "3<sup>rd</sup> Harmonic Notch Q",
+        "message": "3<sup>rd</sup> Harmonischer Kerbfilter-Typ Q",
         "english": "3<sup>rd</sup> Harmonic Notch Q",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterH4": {
-        "message": "4<sup>th</sup> Harmonic Notch Type",
+        "message": "4<sup>th</sup> Harmonischer Kerbfilter-Typ",
         "english": "4<sup>th</sup> Harmonic Notch Type",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "gyroRpmFilterQ4": {
-        "message": "4<sup>th</sup> Harmonic Notch Q",
+        "message": "4<sup>th</sup> Harmonischer Kerbfilter-Typ Q",
         "english": "4<sup>th</sup> Harmonic Notch Q",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "dialogGyroResetTitle": {
-        "message": "<span class=\"message-negative\">Warning:</span> RPM Filter Reset",
+        "message": "<span class=\"message-negative\">Warnung:</span> RPM Filter zurücksetzen",
         "english": "<span class=\"message-negative\">Warning:</span> RPM Filter Reset",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "dialogGyroResetNote": {
-        "message": "Enabling RPM Filter Setup will reset any custom RPM filter settings to defaults.",
+        "message": "Durch die Aktivierung des RPM-Filter-Setups werden alle benutzerdefinierten RPM-Filtereinstellungen auf die Standardwerte zurückgesetzt.",
         "english": "Enabling RPM Filter Setup will reset any custom RPM filter settings to defaults.",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "dialogGyroResetAccept": {
-        "message": "Accept",
+        "message": "Übernehmen",
         "english": "Accept",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "dialogGyroResetRevert": {
-        "message": "Revert",
+        "message": "Wiederherstellen",
         "english": "Revert",
-        "status": "New entry. Please translate!"
+        "status": "New entry. "
     },
     "configHelp2": {
         "message": "Abweichender Winkel (Grad) in dem das Board anders eingebaut wurde als vorgesehen (über Kopf, gedreht, usw.) Falls externe Sensoren (Gyro, Acc, Mag) verwendet werden, bitte diese ebenfalls neu anlernen.",
